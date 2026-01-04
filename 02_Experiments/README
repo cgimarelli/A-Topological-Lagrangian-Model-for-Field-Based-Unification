@@ -1,1 +1,32 @@
+EXPERIMENTS ON THE TOPOLOGICAL LAGRANGIAN MODEL
 
+This directory contains the proposed laboratory protocols, hardware specifications, and budget requirements designed to empirically verify the theoretical predictions of the Hyperbottle Model.
+
+Unlike the Library directory (which contains theoretical derivations), this directory focuses on physical falsification.
+
+================================================================================
+ACTIVE PROPOSALS
+================================================================================
+
+1. The Geometric Observer (Exp_01)
+   Status: Proposal / Budgeting
+   Objective: To determine if a passive, non-orientable spatial geometry (a Möbius cavity) can induce wavefunction collapse in a double-slit experiment without active detection.
+   Key Hypothesis: Vacuum shear stress acts as a mechanical observer.
+
+================================================================================
+DATA & CODE
+================================================================================
+
+Each experiment folder contains:
+- The proposal/paper.
+- Python scripts for data analysis (Signal Processing).
+- Raw datasets (intensity profiles, interference patterns).
+- Schematics for hardware fabrication.
+
+================================================================================
+LICENSE
+================================================================================
+
+Experimental proposals (Text/PDFs): Creative Commons Attribution 4.0 (CC BY 4.0).
+Analysis Software (Python Scripts): MIT License.
+Hardware Schematics: CERN Open Hardware Licence (CERN-OHL-W).
