@@ -1,1 +1,37 @@
+THE GEOMETRIC OBSERVER
+Inducing Wavefunction Collapse via Alignment of the Intrinsic Vector
 
+Date: January 3, 2026
+
+================================================================================
+OVERVIEW
+================================================================================
+
+This directory contains the experimental design, python analysis scripts, and budget proposal for testing the Geometric Observer hypothesis.
+
+The experiment seeks to determine if a passive, non-orientable spatial geometry (a custom Möbius cavity) can induce wavefunction collapse in a standard double-slit setup without active detection or energy absorption.
+
+================================================================================
+EXPERIMENTAL SUMMARY
+================================================================================
+
+HYPOTHESIS:
+Passing a coherent photon stream through a Möbius-Topology Waveguide will increase local vacuum shear stress, forcing photons to phase-lock and reducing interference fringe visibility compared to a control group.
+
+METHODOLOGY (A/B TESTING):
+1. Condition A (Control): Standard double-slit interference pattern in open air (with standard shielding).
+2. Condition B (Variable): Double-slit interference pattern with the beam path enclosed in a grounded Copper Möbius Cavity.
+
+KEY HARDWARE:
+- 532nm DPSS Laser (5mW)
+- 50um Precision Double-Slit
+- Linear CMOS Sensor (TSL1401)
+- Custom Copper Möbius Waveguide
+
+================================================================================
+DIRECTORY CONTENTS
+================================================================================
+
+- /Proposal: Contains the research proposal and budget.
+- /Code: Python scripts for signal processing and fringe visibility analysis.
+- /Data: Raw sensor data from experimental runs.
