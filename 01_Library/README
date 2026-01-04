@@ -1,1 +1,14 @@
+=========================================
+-----------LIBRARY OVERVIEW-------------
+=========================================
+ESSAYS
+This directory contains the technical supplements and granular mathematical derivations that audit specific components of the Topological Lagrangian Model. These documents isolate individual geometric operators—such as the Non-Orientable Metric and Twisted Connection—to rigorously prove the self-consistency of the broader theoretical framework. They function as a deep-dive audit of the specific theorems that support the main thesis.
 
+PRIMARY PAPERS
+This directory houses the core trilogy of manuscripts that establish the macro-structure of the unified theory. These foundational papers outline the unification of gravity and quantum mechanics via the Hybrid Field, the derivation of the shear flow mechanism for mass generation, and the cosmological stability provided by the hyperbottle multiverse ensemble. This is the primary reading sequence for understanding the full scope of the model.
+
+BIBLIOGRAPHY
+This directory maintains the complete citation database for the project in BibTeX format. It includes all academic references, textbooks, and prior research cited throughout the manuscripts, ensuring proper attribution and allowing for easy integration into research workflows or LaTeX editors.
+
+DOIS
+This directory provides a direct listing of Digital Object Identifiers for all referenced external works. It serves as a permanent, verifiable index to the source material, allowing researchers to instantly locate and audit the peer-reviewed literature and foundational texts underpinning the model's citations.
