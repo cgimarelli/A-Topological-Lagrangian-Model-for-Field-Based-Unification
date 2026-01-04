@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use the software or code in this repository, please cite it using the software citation below. If you reference the theoretical physics papers, please cite the preferred-citation."
+title: "The Hyperbottle: A Topological Lagrangian Model for Field-Based Unification"
+type: software
+authors:
+  - family-names: "Gimarelli"
+    given-names: "C. R."
+    affiliation: "Independent Researcher"
+version: 1.0.0
+date-released: 2025-12-25
+license: MIT
+url: "https://github.com/cgimarelli/A-Topological-Lagrangian-Model-for-Field-Based-Unification"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Gimarelli"
+    given-names: "C. R."
+  title: "A Topological Lagrangian Model for Field-Based Unification: From Curvature to Collapse"
+  year: 2025
+  month: 12
+  status: preprint
+  license: CC-BY-4.0
+  url: "https://github.com/cgimarelli/A-Topological-Lagrangian-Model-for-Field-Based-Unification/blob/main/01_Library_PDFs/01_Foundations.pdf"
