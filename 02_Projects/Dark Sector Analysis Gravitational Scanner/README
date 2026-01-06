@@ -37,6 +37,59 @@ to detect vacuum stress that is otherwise invisible to traditional telescopes.
 * Libraries: NumPy, Astroquery (Simbad), Astropy
 * Logic: Kuramoto Phase Dynamics & Topological Lagrangian Modeling
 
+
+# Project: Dark Sector Analysis Gravitational Scanner
+
+## PROJECT STATUS: ACTIVE / IN-DEVELOPMENT
+- Python Logic Core: STABLE (v1.2)
+- AI Studio UI/UX: EXPERIMENTAL (Out of sync with core logic)
+- Verification: Boötes Void Null Test Completed
+
+## DIRECTORY STRUCTURE
+/projects
+  /Dark Sector Analysis Gravitational Scanner
+    /python core           <-- Latest Python scripts (Use these for data)
+    /experimental   <-- AI Studio App / UI Prototypes
+    /data           <-- Example runs & SIMBAD logs
+    /docs           <-- PDF reports
+
+## THE PYTHON CORE (Stable)
+The current Python implementation handles the Kuramoto Dynamics and SIMBAD 
+recursive queries. This is the "Ground Truth" for the project.
+
+To run a scan:
+1. Ensure astropy and astroquery are installed.
+2. Set your RA/DEC and XYZ depth in the `dark_sector_scanner` function.
+3. The script will output raw Metric Tension (PULL) and SIMBAD resolutions.
+
+## EXAMPLE RUNS (Validated Data)
+The following sectors have been scanned using the Topological Lagrangian 
+Model and verified against the SIMBAD database:
+
+1. BOÖTES VOID (The Null Test)
+   - Coordinates: RA 14.83, DEC 46.00
+   - Result: Detected massive linear filament (PULL > 1.2)
+   - Significance: Confirmed invisible dark matter scaffold.
+
+2. SAGITTARIUS A*
+   - Coordinates: RA 17.76, DEC -29.01
+   - Result: High Shear / Turbulent Sync (K < 0.9)
+   - Significance: Point singularity stress detection.
+
+3. ERIDANUS SUPERVOID
+   - Result: Gravitational Inversion (PULL 5.6+, No Baryonic Match)
+
+## KNOWN ISSUES & ROADMAP
+- UI SYNC: The AI Studio frontend is currently trailing the Python core. 
+  The UI may not yet support the "Automatic Drift Lock" or "Seed Safety" 
+  protocols found in the raw script. Use the Python core for research data.
+- SCALE LIMITS: Deep Field scans (XYZ > 10^7) currently experience 
+  increased processing time due to Simbad timeout constraints.
+
+---
+Contact: C. R. Gimarelli
+
+
 ---
 Developed by C. R. Gimarelli
 Independent Researcher
