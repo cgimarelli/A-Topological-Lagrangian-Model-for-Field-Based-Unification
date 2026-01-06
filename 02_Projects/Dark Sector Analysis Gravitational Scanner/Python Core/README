@@ -1,6 +1,6 @@
 ## THE PYTHON CORE 
 The current Python implementation handles the Kuramoto Dynamics and SIMBAD 
-recursive queries. This is the "Ground Truth" for the project.
+recursive queries. This is the working foundation for the project.
 
 To run a scan:
 1. Ensure astropy and astroquery are installed.
