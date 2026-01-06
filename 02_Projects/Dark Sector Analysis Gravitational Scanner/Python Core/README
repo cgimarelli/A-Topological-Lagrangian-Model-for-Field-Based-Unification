@@ -1,0 +1,8 @@
+## THE PYTHON CORE 
+The current Python implementation handles the Kuramoto Dynamics and SIMBAD 
+recursive queries. This is the "Ground Truth" for the project.
+
+To run a scan:
+1. Ensure astropy and astroquery are installed.
+2. Set your RA/DEC and XYZ depth in the `dark_sector_scanner` function.
+3. The script will output raw Metric Tension (PULL), SIMBAD resolutions, a Metric Tension Map and Sync Stability vs XYZ Location plot. 
