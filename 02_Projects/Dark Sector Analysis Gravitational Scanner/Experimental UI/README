@@ -1,0 +1,9 @@
+## THIS IS A PROTOTYPE
+## KNOWN ISSUES & ROADMAP
+
+- UI SYNC: The AI Studio frontend is currently trailing the Python core. 
+  The UI may not yet support the "Automatic Drift Lock" or "Seed Safety" 
+  protocols found in the raw script. Use the Python core for research data.
+
+- SCALE LIMITS: Deep Field scans (XYZ > 10^7) currently experience 
+  increased processing time due to Simbad timeout constraints.
