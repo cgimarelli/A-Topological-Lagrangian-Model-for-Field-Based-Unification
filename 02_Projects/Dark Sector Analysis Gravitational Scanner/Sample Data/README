@@ -1,0 +1,5 @@
+This folder contains a selection of sample data from scans ran with the python core. 
+To run a scan:
+1. Ensure astropy and astroquery are installed.
+2. Set your RA/DEC and XYZ depth in the `dark_sector_scanner` function.
+3. The script will output raw Metric Tension (PULL) and SIMBAD resolutions and graphs.
