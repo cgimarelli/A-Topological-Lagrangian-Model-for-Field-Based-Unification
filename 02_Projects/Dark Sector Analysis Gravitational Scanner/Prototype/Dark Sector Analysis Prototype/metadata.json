@@ -1,0 +1,7 @@
+{
+  "name": "Sanitized DARK SECTOR ANALYSIS",
+  "description": "A computational weak lensing dashboard that maps the invisible skeleton of the universe. By visualizing vacuum metric tension and dimensional synchronization, this tool detects dark matter filaments and gravitational anomalies that optical telescopes cannot see.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
