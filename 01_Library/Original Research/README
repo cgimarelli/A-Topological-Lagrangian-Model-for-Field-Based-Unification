@@ -1,0 +1,27 @@
+TOPOLOGICAL LAGRANGIAN MODEL: ORIGINAL RESEARCH
+
+Author: C. R. Gimarelli
+ORCID: https://orcid.org/0009-0001-0674-4751
+
+OVERVIEW
+This directory contains the technical documentation and numerical verification scripts for the Topological Lagrangian Model (TLM) research series. Each module provides a standalone proof of specific theoretical sectors within the unified field framework.
+
+DIRECTORY STRUCTURE
+The research is organized into paired technical sets to ensure transparency and reproducibility:
+> [Title of Original Research_Folder]
+  >> The formal research paper on the technical paper that containing the prose, mathematical derivations, and theoretical context.
+  >> The standalone numerical verification script. These audits provide the data-driven backend for the claims made in the corresponding papers.
+
+VERIFICATION PROTOCOL
+The included Python scripts provide a standardized framework for independent peer review. Each audit module is designed to validate the mathematical consistency of the corresponding theoretical sector using a consistent methodology:
+> Invariance Verification: Testing the stability of metric signatures and conservation laws under topological transformations.
+> Stationarity Audits: Numerically solving field equations to ensure theoretical configurations satisfy the principle of least action.
+> Scaling Consistency: Verifying the numerical construction of tensors and the stability of derived coupling constants.
+> Quantization Checks: Evaluating path integrals and boundary conditions to confirm the emergence of discrete physical states.
+
+REQUIREMENTS
+Python 3.x
+NumPy
+SciPy
+
+For more works and full publication history, please refer to the author's ORCID profile. https://orcid.org/0009-0001-0674-4751
