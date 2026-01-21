@@ -10,7 +10,6 @@ def verify_lie_fullwood_limit():
     x = np.linspace(0, L, N)
     sigma = 1.0
     psi = np.exp(-(x - L/2)**2 / (2 * sigma**2)) + 0j
-    # Normalize
     psi /= np.sqrt(np.sum(np.abs(psi)**2) * dx)
     shear_strengths = np.linspace(0, 5, 20)
     min_eigenvalues = []
@@ -45,4 +44,5 @@ def verify_lie_fullwood_limit():
     plt.legend()
     plt.show()
 if __name__ == "__main__":
+
     verify_lie_fullwood_limit()
