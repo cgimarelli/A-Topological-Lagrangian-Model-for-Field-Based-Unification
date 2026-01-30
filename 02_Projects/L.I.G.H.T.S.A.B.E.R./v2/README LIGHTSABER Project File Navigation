@@ -1,0 +1,86 @@
+README LIGHTSABER Project File Navigation
+
+# PROJECT OVERVIEW: THE LIGHTSABER MISSION (v2.0)
+This study presents a volumetric analysis of 21,765 vacuum stress nodes to validate the Topological Lagrangian Model (TLM), a field-based framework that predicts the location of baryonic mass as a function of geometric metric tension. Using a computational Volumetric Metric Scanner, we evaluated deep-space sectors for topological invariants including Helicity (H) and Resonant Mode (m). Cross-referencing these predictions with Simbad and Gaia DR3 catalogs revealed an aggregate signal validity rate of 80.2%, comprising confirmed baryonic matches (20.6%) and a distinct population of uncatalogued Geometric Locks (59.6%).
+
+# PROJECT GOALS
+	1. VALIDATE: Match TLM metric nodes with Simbad reality checks.
+	2. IDENTIFY: Distinguish between valid topological singularities and background noise.
+	3. MAP: Chart high-tension, non-radiative geometric singularities and filamentary 3D structures in deep-field sectors.
+
+# EXPECTATIONS & PLANNED UPDATES for v3 (In progress!)
+	The v3 update focuses on resolving coordinate drift and scaling issues identified during the v1 release, while the offset in the v1 is in the neighborhood, our v3 is working towards a much closer offset +- 3" rather than the current <= 150" (prelimary v3 offset arcminutes is < 15", with the majority under 5"). The primary technical goal is the implementation of the alpha-drag correction, which utilizes the TLM derived fine-structure constant of 137.0359 to stabilize RA calculations and eliminate the positional lag in the scanner output. We are also introducing Dirac holographic scaling to expand the r_star values from the microscopic 0.2 range into the macroscopic 0.8 to 1.5 stellar footprint. A central focus of this update is the specific classification of stellar objects. Rather than sorting matter into general regimes, we have implemented detailed calibrations derived from weeks of mapping stellar data to specific TLM invariants. This integration allows the engine to identify exact astronomical identities accurately rather than just broad categories of matter. This shift in physical scale and identification logic necessitates a full recalibration of the regime 4 sieve to ensure baryonic matter is identified with higher precision. We expect these updates to significantly tighten SIMBAD coordinate offsets and push our accuracy beyond the current ballpark hits, moving the majority of detections from the yellow category into high-confidence green matches.
+
+# The LIGHTSABER Project repository is organized into four primary areas. 
+	> The first section contains the core research and development files, including the analysis paper on TLM math and results, the project proposal, the data sheet accuracy report PDF, and the python source code for the scanner engine. 
+	> In the figures folder, you will find the primary quality and accuracy plots, with an extra subfolder containing data focused on the quantity and frequency of the nodes detected. 
+	> The scan data folder contains all raw telemetry and spreadsheets from the planned scan regions, including processed CSV files, target coordinates specifically formatted for the aladdin software tool, and the native aladdin project file. This folder also includes the raw coordinates generated as output from the python script. 
+	> Finally, the scan plots folder contains the data output from the scanner in the form of 2d spectral plots.
+
+# RECOMMENDED USER JOURNEY
+    - First: Read the analysis and proposal to get a background on the TLM math and project overview.
+    - Second: View scan plots to see the physical manifestation of the data.
+    - Third: Review the figures file  to verify the engine s statistical accuracy.
+    - Fourth: Examine scan data to see the raw telemetry and sector logs.
+    - Fifth: Utilize the scanner script to execute your own manifold sweeps!
+
+########################################################
+################## FILE STRUCTURE ######################
+########################################################
+
+# LIGHTSABER Space Scanner Analysis 
+	> DOI: https://doi.org/10.55277/researchhub.pfkx1bym.1
+# LIGHTSABER Space Scanner Proposal 
+	> DOI: https://doi.org/10.55277/researchhub.dcjl4tqu.1
+# tlm_deep_field_research_data_scanner  
+> Figures 
+	# accuracy_by_structure_type
+	# accuracy_cdf_plot
+	# accuracy_scatter_helicity_offset
+	# tlm_distribution_analysis
+	# k-means_clustering_validation
+	> Extra Figures
+		# accuracy_bubble_chart
+		# helicity_validity_boxplot
+		# phase_space_scatter
+		# tlm_averages_comparison
+		# tlm_sky_density_heatmap
+		# tlm_truth_matrix_heatmap
+		# validity_pie_chart
+		# yellow_category_breakdown
+> Scan Data
+	> Data Processing CSVs
+		# LIGHTSABER Space Scanner Data Sheet - Sector Targets
+		# LIGHTSABER Space Scanner Data Sheet - Scan Data
+		# LIGHTSABER Space Scanner Data Sheet - SA
+		# LIGHTSABER Space Scanner Data Sheet - SB
+		# LIGHTSABER Space Scanner Data Sheet - SC
+		# LIGHTSABER Space Scanner Data Sheet - SD
+		# LIGHTSABER Space Scanner Data Sheet - SE
+		# LIGHTSABER Space Scanner Data Sheet - SF
+	> Target_Coordinates
+		> SECTOR A
+			# ALADDIN - TA1 : TA10
+		> SECTOR B
+			# ALADDIN - TB1 : TB10
+		> SECTOR C 
+			# ALADDIN - TC1 : TC10
+		> SECTOR D
+			# ALADDIN - TD1 : TD10
+		> SECTOR E
+			# ALADDIN - TE1 : TE10
+		> SECTOR F
+			# ALADDIN - TF1 : TF10
+		# Bulk_Scan_Data_for_ALADDIN_Overlay
+	# Light saper Space Scanner Data Sheet PDF
+	# Scan_Data_Overlay_ALADDIN.aj
+	# Target Coordinates
+	# TLM_Deep_Field_Research_Data_RAW_output
+> Scan Plots 
+	# scan_01 : scan_60
+
+## Author
+C. R. Gimarelli
+Independent Researcher
+January 2026
+https://orcid.org/0009-0001-0674-4751
