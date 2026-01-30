@@ -13,9 +13,8 @@ This repository contains the verified data logs and visual archives from a final
 * Geometric Forensic Mapping: Resolving structural phenomena such as the Dual-Blade accretion disk signatures and the Leaf Vein filaments of the Cosmic Web.
 
 ## Repository Structure
-* `/plots`: 60 high-resolution PNG scans visualizing the geometry of stability across all targets.
-* `FINAL_STABILITY_SCAN.txt`: The master data log containing the 300-point drill ensemble for every target coordinate.
 * `Lagrangian Interferometric Gravitational High-frequency Topological Scanner for Astrophysical Beam-depth Evaluation and Resonance.pdf`: The formal research proposal and analytical execution plan.
+* v2 LIGHTSABER Project Files 
 
 ## Author
 C. R. Gimarelli
