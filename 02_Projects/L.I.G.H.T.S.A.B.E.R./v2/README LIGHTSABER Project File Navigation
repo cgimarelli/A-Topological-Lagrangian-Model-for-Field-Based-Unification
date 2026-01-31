@@ -11,10 +11,16 @@ This study presents a volumetric analysis of 21,765 vacuum stress nodes to valid
 # EXPECTATIONS & PLANNED UPDATES for v3 (In progress!)
 	The v3 update focuses on resolving coordinate drift and scaling issues identified during the v1 release, while the offset in the v1 is in the neighborhood, our v3 is working towards a much closer offset +- 3" rather than the current <= 150" (prelimary v3 offset arcminutes is < 15", with the majority under 5"). The primary technical goal is the implementation of the alpha-drag correction, which utilizes the TLM derived fine-structure constant of 137.0359 to stabilize RA calculations and eliminate the positional lag in the scanner output. We are also introducing Dirac holographic scaling to expand the r_star values from the microscopic 0.2 range into the macroscopic 0.8 to 1.5 stellar footprint. A central focus of this update is the specific classification of stellar objects. Rather than sorting matter into general regimes, we have implemented detailed calibrations derived from weeks of mapping stellar data to specific TLM invariants. This integration allows the engine to identify exact astronomical identities accurately rather than just broad categories of matter. This shift in physical scale and identification logic necessitates a full recalibration of the regime 4 sieve to ensure baryonic matter is identified with higher precision. We expect these updates to significantly tighten SIMBAD coordinate offsets and push our accuracy beyond the current ballpark hits, moving the majority of detections from the yellow category into high-confidence green matches.
 
-# The LIGHTSABER Project repository is organized into four primary areas. 
-	> The first section contains the core research and development files, including the analysis paper on TLM math and results, the project proposal, the data sheet accuracy report PDF, and the python source code for the scanner engine. 
+# The LIGHTSABER Project is organized into five primary areas. 
+
+	> The first section contains the core research and development files, including the analysis paper on TLM math and results, the project proposal, and the data sheet accuracy report PDF.
+	
+	> The build folder contains the lite app build files, the python source code for the scanner engine, spec sheet, and a zipped .exe of the Space Scanner. 
+
 	> In the figures folder, you will find the primary quality and accuracy plots, with an extra subfolder containing data focused on the quantity and frequency of the nodes detected. 
+
 	> The scan data folder contains all raw telemetry and spreadsheets from the planned scan regions, including processed CSV files, target coordinates specifically formatted for the aladdin software tool, and the native aladdin project file. This folder also includes the raw coordinates generated as output from the python script. 
+
 	> Finally, the scan plots folder contains the data output from the scanner in the form of 2d spectral plots.
 
 # RECOMMENDED USER JOURNEY
@@ -22,7 +28,9 @@ This study presents a volumetric analysis of 21,765 vacuum stress nodes to valid
     - Second: View scan plots to see the physical manifestation of the data.
     - Third: Review the figures file  to verify the engine s statistical accuracy.
     - Fourth: Examine scan data to see the raw telemetry and sector logs.
-    - Fifth: Utilize the scanner script to execute your own manifold sweeps!
+    - Fifth: Utilize the scanner script or the Space Scanner App to execute your own manifold sweeps!
+
+
 
 ########################################################
 ################## FILE STRUCTURE ######################
@@ -32,7 +40,18 @@ This study presents a volumetric analysis of 21,765 vacuum stress nodes to valid
 	> DOI: https://doi.org/10.55277/researchhub.pfkx1bym.1
 # LIGHTSABER Space Scanner Proposal 
 	> DOI: https://doi.org/10.55277/researchhub.dcjl4tqu.1
-# tlm_deep_field_research_data_scanner  
+> Build
+	# build.py
+	# SpaceScanner.py
+	# SpaceScanner.spec
+	> Icon
+		# convert_icon.py
+		# Space_Scanner_Icon.png
+		# SpaceScannerIcon.ico
+	> Space Scanner Script
+		# tlm_deep_field_research_data_scanner.py
+	> dist.zip
+		# SpaceScanner.exe temporarily osted at DOI repository https://doi.org/10.5281/zenodo.18443284
 > Figures 
 	# accuracy_by_structure_type
 	# accuracy_cdf_plot
@@ -76,8 +95,10 @@ This study presents a volumetric analysis of 21,765 vacuum stress nodes to valid
 	# Scan_Data_Overlay_ALADDIN.aj
 	# Target Coordinates
 	# TLM_Deep_Field_Research_Data_RAW_output
-> Scan Plots 
+> Scan Plots.zip 
 	# scan_01 : scan_60
+
+
 
 ## Author
 C. R. Gimarelli
