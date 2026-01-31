@@ -1,0 +1,95 @@
+SECTOR A,Singularities,,,,
+Regime,Count,Description,,,
+A. Singularities,10,"Supermassive Black Holes (Sgr A*, M87), Neutron Stars (Crab).",,,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type
+J174540.04-290028.1,17.761,-29.008,"26,000",10,Sgr A*
+J123049.42+122328.0,12.513,12.391,"16,000",10,M87 Core
+J195821.67+351205.7,19.972,35.201,"7,300",10,Cyg X-1
+J053431.97+220052.0,5.576,22.015,"6,500",10,Crab Pulsar
+J083520.61-451034.8,8.589,-45.176,930,10,Vela Pulsar
+J063354.15+174612.9,6.565,17.77,800,10,Geminga
+J191149.56+045857.8,19.197,4.981,"18,000",10,SS 433
+J204020.30+335202.9,20.401,33.867,"7,800",10,Cyg X-3
+J165901.59-395044.9,16.901,-39.845,"11,000",10,GRO J1655-40
+J191506.24+105644.8,19.253,10.945,"28,000",10,GRS 1915+105
+,,,,,
+,,,,,
+SECTOR B,Stellar Nurseries,,,,
+Regime,Count,Description,,,
+B. Stellar Nurseries,10,"Star-forming regions (Orion, Eagle Nebula).",,,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type
+J053517.30-052328.0,5.588,-5.391,"1,344",10,Orion Nebula
+J181848.00-134900.0,18.312,-13.842,"7,000",10,Eagle Nebula
+J104351.00-595200.0,10.749,-59.684,"8,500",10,Carina Nebula
+J180337.00-242312.0,18.041,-24.372,"4,100",10,Lagoon Nebula
+J180223.00-230148.0,18.038,-23.031,"5,200",10,Trifid Nebula
+J162806.00-243230.0,16.468,-24.541,460,10,Rho Ophiuchi
+J053842.00-690603.0,5.644,-69.101,"160,000",10,Tarantula (LMC)
+J205917.00+441909.0,20.985,44.318,"2,200",10,N. America Neb
+J063213.00+045121.0,6.538,4.998,"5,200",10,Rosette Nebula
+J182026.00-161036.0,18.347,-16.182,"5,500",10,Omega Nebula
+,,,,,
+,,,,,
+SECTOR C,Main Sequence,,,,
+Regime,Count,Description,,,
+C. Main Sequence,10,"Stable G/K-type stars (Sun-like), Open Clusters (Pleiades).",,,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type
+J064508.91-164258.0,6.752,-16.716,500,4,Sirius
+J183656.33+384701.2,18.615,38.784,500,4,Vega
+J023149.09+891550.7,2.531,89.264,500,4,Polaris
+J034724.00+240700.0,3.79,24.117,500,4,Pleiades
+J141539.67+191056.6,14.261,19.182,500,4,Arcturus
+J073918.11+051329.9,7.655,5.226,500,4,Procyon
+J143936.49-605002.3,14.66,-60.834,500,4,Alpha Cen
+J162924.46-262555.2,16.49,-26.432,550,6,Antares
+J051432.27-081205.8,5.242,-8.201,860,6,Rigel
+J195046.99+085205.9,19.846,8.868,500,4,Altair
+,,,,,
+,,,,,
+SECTOR D,Dark Sector,,,,
+Regime,Count,Description,,,
+D. Dark Sector,10,"Known Lensing Clusters (Abell 2218, Bullet Cluster).",,,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type
+J163554.00+661300.0,16.592,66.216,"50,000",10,Abell 2218
+J065830.00-555636.0,6.585,-55.946,"50,000",10,Bullet Cluster
+J131129.50-012028.0,13.193,-1.334,"50,000",10,Abell 1689
+J023952.90-013408.0,2.664,-1.571,"50,000",10,Abell 370
+J125948.70+275850.0,12.997,27.981,"50,000",10,Coma Cluster
+J031948.10+413042.0,3.329,41.512,"50,000",10,Perseus Cluster
+J140102.30+025242.0,14.017,2.871,"50,000",10,Abell 1835
+J001419.50-302319.0,0.239,-30.401,"50,000",10,Abell 2744
+J002635.70+170943.0,0.443,17.151,"50,000",10,CL 0024+17
+J134730.70-114510.0,13.791,-11.753,"50,000",10,RX J1347
+,,,,,
+,,,,,
+SECTOR E,Null Control,,,,
+Regime,Count,Description,,,
+E. Null Control,10,"Known Cosmic Voids (Boötes, Eridanus).",,,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type
+J142000.00+460000.0,14.83,46,"50,000",10,Boötes Void
+J031000.00-193500.0,3.25,-19.58,"50,000",10,Eridanus Void
+J183800.00+185031.2,18.63,18.84,"20,000",10,Local Void
+J070450.40-250643.2,13,35,"50,000",10,Giant Void
+J153030.00+150643.2,15.51,15.11,"50,000",10,Keenan's Void
+J043030.00+300643.2,4.51,30.11,"50,000",10,Taurus Void
+J234830.00-243907.2,23.81,-24.65,"50,000",10,Sculptor Void
+J220643.20+150643.2,22.11,15.11,"50,000",10,Pegasus Void
+J214300.00-144000.0,17,-25,"50,000",10,Ophiuchus Void
+J232000.00-123151.6,20.9,-30,"50,000",10,Microscopium
+,,,,,
+,,,,,
+,,,,,
+SECTOR F,Fermi Bubbles,,,,
+Regime,Count,Description,,,
+F. Fermi Bubbles,10,Fermi Bubbles,,,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type
+J174540.04-290028.1,17.761,-29.008,"26,000",10,Galactic Center
+J150000.00+100000.0,17.5,-15,"28,000",10,North Lobe Low
+J180000.00-600000.0,17.2,-1,"30,000",10,North Lobe Mid
+J120000.00+300000.0,16.7,14,"32,000",10,North Lobe High
+J193000.00-150000.0,16.4,22,"27,000",10,North Lobe Top
+J164000.00+450000.0,18.1,-43,"35,000",10,South Lobe Low
+J183000.00-450000.0,18.7,-57,"31,000",10,South Lobe Mid
+J141500.00+250000.0,19.5,-68,"29,000",10,South Lobe High
+J174500.00+550000.0,20.5,-73,"40,000",10,South Lobe Bot
+J231200.00-453000.0,18.5,-29,"26,500",10,East Edge

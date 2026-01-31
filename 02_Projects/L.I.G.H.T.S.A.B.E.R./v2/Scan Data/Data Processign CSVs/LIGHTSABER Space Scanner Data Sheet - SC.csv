@@ -1,0 +1,483 @@
+SECTOR C,Main Sequence,,,,,ANALYSIS,
+Regime,Count,Description,,,,,
+C. Main Sequence,10,"Stable G/K-type stars (Sun-like), Open Clusters (Pleiades).",,,,Cumulative,
+Target Coordinate,RA,DEC,start_xyz,search_radius,Type,Closest OFFSET,1.54
+J064508.91-164258.0,6.752,-16.716,500,4,Sirius,Average OFFSET,105.9611688
+J183656.33+384701.2,18.615,38.784,500,4,Vega,Max OFFSET,294.59
+J023149.09+891550.7,2.531,89.264,500,4,Polaris,Number of Close Matches(OFFSET < 1 arcsecond),0
+J034724.00+240700.0,3.79,24.117,500,4,Pleiades,No SIMBAD Match,3
+J141539.67+191056.6,14.261,19.182,500,4,Arcturus,Accuracy Rate,94.13%
+J073918.11+051329.9,7.655,5.226,500,4,Procyon,,
+J143936.49-605002.3,14.66,-60.834,500,4,Alpha Cen,Structure Type,Count
+J162924.46-262555.2,16.49,-26.432,550,6,Antares,Gasious Substrate Schema,90
+J051432.27-081205.8,5.242,-8.201,860,6,Rigel,Minkowskian Baseline,62
+J195046.99+085205.9,19.846,8.868,500,4,Altair,Metric Spacetime Anomaly,57
+Scan Output,,,,,,Solenoidal Metric Schema (Iron),53
+TC1,,,,,,Trefoil Metric Schema,46
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,Helical Metric Schema,31
+"Target: RA 6.752, DEC -16.716",,,,,,Localized Torsional Inflection,27
+Depth: 500 XYZ,Radius: 4.0,,,,,Baryonic Metric Substrate,18
+Scanning Volume... Sampling 26 points.,,,,,,PREDICTED IDENTITY,10
+Structure Detected: 26 metric nodes.,,,,,,Spacetime Curvature Limit (Black Hole),4
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC1,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,18.32
+06h45m28.20s -16d21m49.11s,0.1676,390.9817,Minkowskian Baseline,124.34,MATCH: Gaia DR3 2947100769177526400 (EB*),Average OFFSET,79.89346154
+06h45m17.13s -16d47m10.87s,0.3065,103.6422,Solenoidal Metric Schema (Iron),43.44,MATCH: Gaia DR3 2947046927474251264 (RR*),Max OFFSET,200.99
+06h43m42.23s -16d36m22.62s,0.2056,385.6683,Minkowskian Baseline,150.25,MATCH: Gaia DR2 2947067023618570240 (*),Number of Close Matches(OFFSET < 1 arcsecond),0
+06h44m07.43s -17d00m21.39s,0.228,7.3487,Gasious Substrate Schema,21.76,MATCH: Gaia DR3 2946666393368199296 (EB*),,
+06h45m45.81s -16d36m33.72s,1.1361,117.2126,Baryonic Metric Substrate,33.14,MATCH: Gaia DR3 2947058541063558400 (*),No SIMBAD Match,0
+06h45m16.81s -16d18m14.37s,1.0893,319.6716,Baryonic Metric Substrate,108.65,MATCH: BD-16  1592 (*),,
+06h44m22.82s -16d31m54.03s,0.298,31.6446,Solenoidal Metric Schema (Iron),46.38,MATCH: Gaia DR3 2947069020792827264 (EB*),Structure Type,Count
+06h44m17.88s -16d31m34.87s,0.2167,121.6572,Minkowskian Baseline,119.3,MATCH: Gaia DR3 2947069020792827264 (EB*),Minkowskian Baseline,6
+06h43m32.10s -16d49m10.47s,0.5945,202.1622,Metric Spacetime Anomaly,79.82,MATCH: Gaia DR3 2946684324854899200 (EB*),Gasious Substrate Schema,5
+06h46m57.64s -16d46m09.98s,0.3757,102.0845,Trefoil Metric Schema,30.86,MATCH: Gaia DR3 2946322074429686912 (*),Baryonic Metric Substrate,4
+06h45m17.38s -16d29m47.07s,0.3127,26.9535,Solenoidal Metric Schema (Iron),125.67,MATCH: Gaia DR3 2947072040142627968 (*),Solenoidal Metric Schema (Iron),4
+06h45m34.48s -16d38m01.55s,0.1867,75.366,Minkowskian Baseline,32.28,MATCH: Gaia DR3 2947056960522300288 (*),Helical Metric Schema,3
+06h46m25.45s -16d31m37.59s,0.1963,375.8259,Minkowskian Baseline,62.18,MATCH: Gaia DR3 2947079878469005952 (*),Metric Spacetime Anomaly,2
+06h46m42.82s -16d44m26.37s,0.3475,24.2432,Helical Metric Schema,39.97,MATCH: Gaia DR3 2946299706240011776 (*),Trefoil Metric Schema,2
+06h45m35.28s -16d40m35.85s,0.2723,28.3214,Gasious Substrate Schema,18.32,MATCH: Gaia DR3 2947056788723624320 (*),,
+06h44m23.10s -16d44m12.26s,0.2261,9.8582,Gasious Substrate Schema,111.09,MATCH: CSS  254 (S*),,
+06h45m08.98s -16d51m01.52s,0.3021,20.2713,Solenoidal Metric Schema (Iron),99.34,MATCH: Gaia DR3 2947046377718881408 (*),,
+06h43m45.54s -16d27m36.93s,0.8343,288.2362,Baryonic Metric Substrate,144.7,MATCH: TYC 5949-2670-1 (*),,
+06h44m52.55s -16d45m53.98s,0.9228,158.7997,Baryonic Metric Substrate,55.92,MATCH: Gaia DR3 2947049985495334144 (*),,
+06h44m13.52s -16d54m20.95s,0.5427,1.8167,Metric Spacetime Anomaly,200.99,MATCH: Gaia DR3 2946671272450473216 (*),,
+06h44m01.69s -16d54m32.44s,0.3756,63.0961,Trefoil Metric Schema,47.45,MATCH: Gaia DR3 2946671272450473216 (*),,
+06h46m18.03s -16d54m34.48s,0.3548,353.7086,Helical Metric Schema,92.33,MATCH: BD-16  1596 (*),,
+06h44m02.51s -16d45m35.72s,0.3511,26.0297,Helical Metric Schema,43.51,MATCH: IRAS 06418-1642 (*),,
+06h46m38.13s -16d56m43.57s,0.2238,82.1991,Gasious Substrate Schema,88.95,MATCH: Gaia DR2 2946283797681790592 (*),,
+06h44m26.71s -16d38m44.32s,0.1947,408.0837,Minkowskian Baseline,91.86,MATCH: TYC 5949-2747-1 (*),,
+06h46m29.12s -16d33m26.61s,0.2224,57.5203,Gasious Substrate Schema,64.73,MATCH: Gaia DR3 2947079878469005952 (*),,
+TC2,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 18.615, DEC 38.784",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC2,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,25.69
+18h37m58.14s +38d54m56.31s,0.4082,91.4976,Trefoil Metric Schema,160.09,MATCH: Gaia DR3 2097899697973954432 (WD?),Average OFFSET,115.7492308
+18h35m21.01s +38d55m37.02s,0.2888,102.3365,Solenoidal Metric Schema (Iron),81.04,MATCH: NVSS J183514+385534 (Rad),Max OFFSET,219.22
+18h38m01.50s +38d24m17.84s,0.4965,207.6093,Localized Torsional Inflection,153.9,MATCH: ZTF J183748.58+382352.4 (RS*),Number of Close Matches(OFFSET < 1 arcsecond),0
+18h36m15.44s +38d39m27.34s,1.2802,60.1346,Metric Spacetime Anomaly,90.97,MATCH: Gaia DR3 2097915022420502912 (EB*),,
+18h36m14.24s +38d39m04.97s,0.2333,133.1176,Gasious Substrate Schema,115.74,MATCH: Gaia DR3 2097915022420502912 (EB*),No SIMBAD Match,0
+18h35m56.06s +38d54m05.29s,0.2723,5.3741,Gasious Substrate Schema,103.79,MATCH: UCAC4 645-061924 (SB*),,
+18h36m06.53s +38d43m10.91s,0.5181,169.6112,Metric Spacetime Anomaly,123.62,MATCH: TYC 3105-604-1 (*),Structure Type,Count
+18h37m48.08s +38d41m12.38s,0.2819,142.2281,Solenoidal Metric Schema (Iron),150.44,MATCH: Gaia DR3 2097888496702292736 (EB*),Gasious Substrate Schema,8
+18h37m00.26s +38d38m44.51s,0.3826,93.6809,Trefoil Metric Schema,95.08,MATCH: LAMOST J183707.58+383803.6 (*),Minkowskian Baseline,4
+18h37m05.43s +38d50m59.96s,0.1848,38.4333,Minkowskian Baseline,96.46,MATCH: TYC 3105-692-1 (*),Localized Torsional Inflection,3
+18h36m29.06s +39d11m05.19s,0.249,57.5499,Gasious Substrate Schema,151.16,MATCH: Gaia DR3 2097965973612117248 (*),Metric Spacetime Anomaly,3
+18h36m01.14s +39d10m43.40s,0.2776,251.583,Localized Torsional Inflection,94.51,MATCH: TYC 3105-209-1 (**),Trefoil Metric Schema,3
+18h35m35.02s +38d30m25.72s,0.2307,188.7746,Gasious Substrate Schema,132.56,MATCH: ZTF J183534.78+383238.2 (BY*),Baryonic Metric Substrate,2
+18h38m45.81s +38d34m09.44s,0.2112,36.6474,Minkowskian Baseline,74.57,MATCH: LEDA 2130100 (G),Solenoidal Metric Schema (Iron),2
+18h37m27.01s +38d46m54.92s,0.2319,131.2944,Localized Torsional Inflection,138.17,MATCH: UCAC4 644-060943 (SB*),Spacetime Curvature Limit (Black Hole),1
+18h36m52.62s +38d45m59.08s,0.2337,197.7325,Gasious Substrate Schema,43.58,MATCH: PPM  81557 (*),,
+18h37m36.62s +38d48m28.00s,0.1963,30.5276,Minkowskian Baseline,136.01,MATCH: UCAC4 644-060989 (SB*),,
+18h35m45.18s +38d50m43.80s,1.1999,225.8297,Baryonic Metric Substrate,33.79,MATCH: LEDA 2138028 (G),,
+18h36m55.21s +38d57m21.44s,0.256,27.8718,Gasious Substrate Schema,180.34,MATCH: WISE J183705.42+385937.0 (G),,
+18h36m42.87s +38d33m33.51s,0.2782,17.0881,Gasious Substrate Schema,136.52,MATCH: Gaia DR3 2097866884423059840 (RR?),,
+18h38m06.42s +38d28m25.65s,0.9931,4.6166,Baryonic Metric Substrate,180.46,MATCH: UCAC4 643-062087 (*),,
+18h35m42.16s +38d38m20.16s,0.2656,20.0986,Gasious Substrate Schema,219.22,MATCH: NVSS J183524+383718 (Rad),,
+18h38m31.94s +38d54m01.87s,1.6144,280.3922,Spacetime Curvature Limit (Black Hole),25.69,MATCH: LEDA 2139276 (G),,
+18h35m09.12s +38d45m54.56s,0.2061,75.7975,Minkowskian Baseline,89.63,MATCH: 4C 38.45 (Rad),,
+18h34m45.96s +38d39m14.43s,0.4722,55.3078,Metric Spacetime Anomaly,160.17,MATCH: Gaia DR3 2097924540069685248 (WD?),,
+18h36m55.33s +39d03m45.55s,0.3921,80.4029,Trefoil Metric Schema,41.97,MATCH: Gaia DR3 2097952268373636736 (WD?),,
+TC3,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 2.531, DEC 89.264",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC3,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,37.22
+02h56m07.28s +89d01m16.98s,0.2544,35.3899,Gasious Substrate Schema,199.79,MATCH: PGCC G123.51+26.24 (MoC),Average OFFSET,150.1532
+00h59m28.57s +89d17m04.05s,0.8321,70.8561,Baryonic Metric Substrate,75.05,MATCH: NVSS J010044+891817 (Rad),Max OFFSET,286.61
+01h49m35.47s +89d25m10.15s,0.5674,326.607,Localized Torsional Inflection,171.25,MATCH: TYC 4628-72-1 (SB*),Number of Close Matches(OFFSET < 1 arcsecond),0
+02h19m16.67s +89d07m33.76s,0.2093,29.9184,Minkowskian Baseline,97.82,MATCH: UCAC3 359-211 (*),,
+01h20m22.32s +89d31m43.48s,0.1989,146.0048,Minkowskian Baseline,40.17,MATCH: Gaia DR3 576444534507499520 (WD?),No SIMBAD Match,1
+03h02m28.25s +89d20m40.62s,0.3474,232.5323,Helical Metric Schema,280.36,MATCH: NVSS J024928+891637 (Rad),,
+03h01m40.18s +89d25m39.91s,0.178,164.4579,Minkowskian Baseline,N/A,NO MATCH,Structure Type,Count
+03h26m25.78s +89d32m02.28s,0.3294,4.704,Helical Metric Schema,271.08,MATCH: TYC 4628-48-1 (*),Metric Spacetime Anomaly,5
+02h55m22.60s +89d04m05.40s,0.2155,150.9286,Minkowskian Baseline,284.18,MATCH: 2MFGC 2147 (G),Minkowskian Baseline,5
+01h43m15.55s +89d14m01.07s,0.2016,89.2551,Minkowskian Baseline,157.02,MATCH: HELLAS 426 (X),Gasious Substrate Schema,3
+03h46m40.23s +89d28m48.21s,0.2649,142.3295,Gasious Substrate Schema,123.4,MATCH: TYC 4628-48-1 (*),Helical Metric Schema,3
+01h42m13.28s +89d18m07.31s,1.1325,30.75,Baryonic Metric Substrate,286.61,MATCH: HELLAS 431 (X),Localized Torsional Inflection,3
+00h36m09.31s +89d17m26.71s,0.2893,32.8354,Solenoidal Metric Schema (Iron),56.07,MATCH: NVSS J003239+891643 (Rad),Trefoil Metric Schema,3
+02h19m28.55s +89d17m11.61s,0.2766,238.4703,Gasious Substrate Schema,115.23,MATCH: UCAC3 359-198 (*),Baryonic Metric Substrate,2
+02h00m41.50s +89d32m34.29s,0.5573,110.239,Metric Spacetime Anomaly,80.1,MATCH: TYC 4627-91-1 (SB*),Solenoidal Metric Schema (Iron),2
+01h02m45.06s +89d06m32.37s,0.3898,29.8999,Trefoil Metric Schema,72.96,MATCH: EXSS 0049.1+8850 (X),,
+04h57m15.71s +89d26m54.33s,0.484,353.3857,Localized Torsional Inflection,115.84,MATCH: BD+88    10 (*),,
+01h34m30.52s +89d00m20.53s,0.3474,151.2438,Helical Metric Schema,37.22,MATCH: HD   5914 (PM*),,
+04h13m43.03s +89d26m43.18s,0.4688,15.9095,Metric Spacetime Anomaly,236.79,MATCH: TYC 4628-48-1 (*),,
+02h30m00.30s +89d25m31.82s,0.306,179.7515,Solenoidal Metric Schema (Iron),222.25,MATCH: TYC 4628-72-1 (SB*),,
+02h06m20.41s +89d24m48.02s,0.4887,33.7056,Metric Spacetime Anomaly,75.54,MATCH: TYC 4628-239-1 (*),,
+00h09m59.56s +89d19m54.75s,0.5542,17.3497,Metric Spacetime Anomaly,105.08,MATCH: Gaia DR3 576414366657232384 (EB*),,
+02h38m43.40s +88d57m38.51s,0.5813,55.7928,Localized Torsional Inflection,214.62,MATCH: PGCC G123.51+26.24 (MoC),,
+02h19m12.53s +89d11m24.07s,0.3729,11.1485,Trefoil Metric Schema,40.69,MATCH: AG+88    8 (*),,
+04h17m24.98s +89d11m23.38s,0.7083,108.1474,Metric Spacetime Anomaly,187.45,MATCH: 1RXS J042412.5+891411 (X),,
+01h45m52.21s +89d28m35.93s,0.4087,75.8225,Trefoil Metric Schema,207.26,MATCH: TYC 4627-91-1 (SB*),,
+TC4,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 3.79, DEC 24.117",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC4,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,1.54
+03h47m41.65s +24d22m07.81s,0.2287,238.9617,Gasious Substrate Schema,22.54,MATCH: HD 282967 (Y*O),Average OFFSET,59.69384615
+03h47m41.30s +24d00m03.76s,0.2159,93.0494,Minkowskian Baseline,21.16,MATCH: BD+23   543 (*),Max OFFSET,156.26
+03h46m21.70s +24d08m51.31s,0.3084,106.7427,Solenoidal Metric Schema (Iron),23.6,MATCH: [KRL2001] 48 (X),Number of Close Matches(OFFSET < 1 arcsecond),0
+03h47m23.05s +24d27m59.70s,0.2164,62.2346,Minkowskian Baseline,71.4,MATCH: HAT 260-15338 (*),,
+03h48m25.48s +24d06m36.40s,0.2044,71.7575,Minkowskian Baseline,75.99,MATCH: Cl Melotte   22  1874 (*),No SIMBAD Match,0
+03h46m04.07s +24d13m07.66s,0.3741,33.4891,Trefoil Metric Schema,71.05,MATCH: UCAC4 572-008650 (*),,
+03h46m19.13s +24d16m17.35s,0.3467,12.723,Helical Metric Schema,33.48,MATCH: UCAC4 572-008660 (*),Structure Type,Count
+03h48m45.37s +23d55m53.52s,0.4482,18.8744,Trefoil Metric Schema,156.26,MATCH: Cl Melotte   22  1987 (*),Minkowskian Baseline,8
+03h47m17.56s +24d13m48.30s,0.3707,255.9152,Trefoil Metric Schema,1.54,MATCH: [SCG94] X 173 (?),Gasious Substrate Schema,5
+03h47m37.39s +23d42m21.08s,0.2512,36.843,Gasious Substrate Schema,72.58,MATCH: V* QV Tau (Er*),Trefoil Metric Schema,5
+03h47m23.79s +23d48m13.28s,0.5458,313.8133,Metric Spacetime Anomaly,38.74,MATCH: HD  23632 (*),Solenoidal Metric Schema (Iron),4
+03h47m51.73s +24d21m45.21s,0.1961,183.3033,Minkowskian Baseline,20.3,MATCH: Cl Melotte   22  1597 (*),Helical Metric Schema,2
+03h47m23.69s +24d10m54.37s,0.2264,4.376,Gasious Substrate Schema,116.56,MATCH: UGCS J034729.48+241219.7 (PM*),Localized Torsional Inflection,1
+03h47m15.67s +23d49m53.03s,0.2105,324.626,Minkowskian Baseline,27.57,MATCH: V* V645 Tau (PM*),Metric Spacetime Anomaly,1
+03h47m43.91s +23d55m33.71s,0.3011,24.6611,Solenoidal Metric Schema (Iron),36.96,MATCH: Gaia DR2 65020517759095296 (*),,
+03h47m21.99s +23d52m08.14s,0.2582,1.7711,Gasious Substrate Schema,84.79,MATCH: [SCG94] X 176 (?),,
+03h47m11.79s +24d23m07.51s,0.4397,55.9652,Trefoil Metric Schema,55.19,MATCH: Cl* Melotte   22    BPL     134 (Er*),,
+03h46m28.83s +24d26m53.09s,0.1837,112.9106,Minkowskian Baseline,32.67,MATCH: Cl* Melotte   22     DH     447 (Er*),,
+03h46m06.09s +23d48m04.05s,0.2388,24.0942,Gasious Substrate Schema,103.97,MATCH: Cl* Melotte   22    HHJ     127 (PM*),,
+03h46m41.03s +24d07m37.88s,0.2843,94.8977,Solenoidal Metric Schema (Iron),8.44,MATCH: [KRL2001] 30 (X),,
+03h47m51.37s +23d53m05.06s,0.3316,26.064,Helical Metric Schema,98.27,MATCH: Cl Melotte   22  1576 (Em*),,
+03h47m59.46s +24d15m49.86s,0.2053,96.0359,Minkowskian Baseline,42.68,MATCH: Cl* Melotte   22    BPL     162 (Er*),,
+03h48m16.72s +24d28m43.15s,0.2138,37.9909,Minkowskian Baseline,59.92,MATCH: Cl* Melotte   22  ROQUE      43 (LM*),,
+03h48m32.06s +24d06m29.77s,0.3166,34.5723,Solenoidal Metric Schema (Iron),76.51,MATCH: Cl Melotte   22  1874 (*),,
+03h47m46.77s +24d13m15.28s,0.6136,141.9015,Localized Torsional Inflection,154.81,MATCH: Cl Melotte   22  1477 (*),,
+03h47m01.94s +24d00m15.33s,0.386,10.2105,Trefoil Metric Schema,45.06,MATCH: V* V1210 Tau (gD*),,
+TC5,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 14.261, DEC 19.182",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC5,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,26.23
+14h15m48.94s +19d24m39.72s,0.2681,72.6358,Gasious Substrate Schema,115.57,MATCH: WISE J141552.06+192252.6 (G),Average OFFSET,145.58
+14h15m56.45s +19d04m12.05s,0.2406,40.4184,Gasious Substrate Schema,110.22,MATCH: BD+19  2778 (*),Max OFFSET,251.87
+14h17m06.62s +19d06m26.90s,0.3375,326.2786,Helical Metric Schema,63.55,MATCH: SDSS J141702.16+190634.2 (LM*),Number of Close Matches(OFFSET < 1 arcsecond),0
+14h15m28.01s +18d49m29.92s,0.2225,36.9327,Gasious Substrate Schema,251.87,MATCH: LEDA 4408327 (G),,
+14h16m32.45s +19d07m27.75s,0.4412,248.8329,Trefoil Metric Schema,202.38,MATCH: SDSS J141644.62+190541.9 (Sy1),No SIMBAD Match,0
+14h16m23.71s +19d13m42.05s,0.2108,204.7546,Minkowskian Baseline,184.64,MATCH: GAT 1348 (*),,
+14h17m12.53s +19d12m52.00s,0.2483,141.3864,Gasious Substrate Schema,107.88,MATCH: SDSSCGB 34580.2 (G),Structure Type,Count
+14h14m59.43s +18d53m41.73s,0.5849,105.7312,Metric Spacetime Anomaly,26.23,MATCH: SDSS J141500.87+185358.1 (G),Gasious Substrate Schema,9
+14h14m44.43s +19d10m03.39s,0.6211,373.4306,Localized Torsional Inflection,189.35,MATCH: SDSS J141433.81+190808.3 (G),Minkowskian Baseline,5
+14h14m46.06s +19d03m44.63s,0.4072,19.4982,Trefoil Metric Schema,222.88,MATCH: FIRST J141436.1+190637 (AG?),Trefoil Metric Schema,4
+14h15m16.25s +19d15m33.41s,0.4293,181.2391,Trefoil Metric Schema,145.63,MATCH: [R97] alf Boo  3 (X),Helical Metric Schema,3
+14h15m51.72s +19d07m32.17s,0.2117,59.4195,Minkowskian Baseline,156.97,MATCH: [R97] alf Boo  4 (X),Metric Spacetime Anomaly,3
+14h15m51.83s +18d58m16.73s,0.5787,6.0489,Metric Spacetime Anomaly,39.68,MATCH: SDSS J141554.52+185805.6 (EmG),Localized Torsional Inflection,1
+14h16m27.82s +19d07m45.17s,0.3738,43.4182,Trefoil Metric Schema,196.72,MATCH: BD+19  2780 (*),Solenoidal Metric Schema (Iron),1
+14h14m13.27s +19d18m22.80s,0.495,85.0016,Metric Spacetime Anomaly,152.51,MATCH: SDSS J141416.87+191559.0 (QSO),,
+14h15m17.56s +19d24m07.00s,0.2437,26.4979,Gasious Substrate Schema,165.3,MATCH: TYC 1472-733-1 (*),,
+14h15m55.93s +19d19m25.93s,0.2154,2.6863,Minkowskian Baseline,184.82,MATCH: GAT 1345 (*),,
+14h14m28.83s +19d17m13.94s,0.2786,23.2073,Gasious Substrate Schema,185.07,MATCH: SDSS J141416.87+191559.0 (QSO),,
+14h14m34.17s +19d09m27.76s,0.2062,234.0797,Minkowskian Baseline,79.53,MATCH: SDSS J141433.81+190808.3 (G),,
+14h16m14.07s +19d26m05.07s,0.3283,17.8798,Helical Metric Schema,175.47,MATCH: LAMOST J141621.49+192825.5 (G),,
+14h15m26.71s +19d26m32.91s,0.2543,108.6688,Gasious Substrate Schema,222.16,MATCH: LAMOST J141541.44+192749.8 (*),,
+14h15m23.92s +19d30m04.91s,0.2773,123.6303,Gasious Substrate Schema,238.81,MATCH: GEN# +7.81790017 (*),,
+14h15m46.90s +19d07m19.86s,0.2919,114.5367,Solenoidal Metric Schema (Iron),87.82,MATCH: [R97] alf Boo  4 (X),,
+14h16m02.72s +19d02m14.83s,0.2108,69.7979,Minkowskian Baseline,46.81,MATCH: BD+19  2778 (*),,
+14h16m03.24s +19d18m19.86s,0.32,0.9974,Helical Metric Schema,117.14,MATCH: GAT 1345 (*),,
+14h16m06.35s +19d07m25.31s,0.2383,109.7483,Gasious Substrate Schema,116.07,MATCH: BD+19  2780 (*),,
+TC6,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 7.655, DEC 5.226",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC6,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,19.68
+07h38m30.54s +05d32m50.42s,0.2786,5.5515,Gasious Substrate Schema,157.45,MATCH: Gaia DR3 3138729561245244544 (WD?),Average OFFSET,102.4726923
+07h39m25.30s +05d16m35.34s,0.5325,260.8752,Metric Spacetime Anomaly,59.13,MATCH: UCAC2  33558336 (*),Max OFFSET,182.42
+07h39m09.66s +04d48m28.76s,1.403,3.6008,Metric Spacetime Anomaly,166.29,MATCH: UCAC4 474-035316 (*),Number of Close Matches(OFFSET < 1 arcsecond),0
+07h39m46.77s +05d31m19.79s,0.1845,485.9767,Minkowskian Baseline,178.4,MATCH: TYC  187-289-1 (*),,
+07h39m30.80s +05d01m11.09s,1.67,58.7563,Spacetime Curvature Limit (Black Hole),126.41,MATCH: ATO J114.8436+05.0261 (EB*),No SIMBAD Match,0
+07h38m34.71s +05d02m40.25s,0.2204,290.6886,Gasious Substrate Schema,135.37,MATCH: GB6 B0735+0511 (Rad),,
+07h38m20.58s +05d12m29.06s,0.3216,10.972,Helical Metric Schema,105.22,MATCH: TYC  187-948-1 (*),Structure Type,Count
+07h38m03.80s +05d15m53.42s,0.67,97.9543,Localized Torsional Inflection,137.76,MATCH: UCAC4 477-037916 (*),Gasious Substrate Schema,5
+07h39m12.60s +05d37m40.11s,0.3432,124.9199,Helical Metric Schema,66.1,MATCH: TYC  191-158-1 (*),Helical Metric Schema,4
+07h38m13.68s +05d16m56.15s,0.1789,181.8719,Minkowskian Baseline,114.94,MATCH: UCAC4 477-037905 (*),Metric Spacetime Anomaly,4
+07h39m03.85s +04d49m45.94s,0.4582,184.5009,Metric Spacetime Anomaly,143.28,MATCH: UCAC4 475-036575 (*),Minkowskian Baseline,4
+07h39m24.45s +04d50m53.54s,0.2479,41.1612,Gasious Substrate Schema,139.89,MATCH: Gaia DR3 3138084014779459456 (PM*),Trefoil Metric Schema,3
+07h39m57.27s +05d30m51.83s,0.185,180.1264,Minkowskian Baseline,73.79,MATCH: TYC  187-313-1 (*),Localized Torsional Inflection,2
+07h38m53.85s +05d17m17.20s,0.2533,13.2471,Gasious Substrate Schema,20.73,MATCH: UCAC4 477-038026 (*),Solenoidal Metric Schema (Iron),2
+07h38m40.48s +05d18m43.54s,0.394,113.3392,Trefoil Metric Schema,84.18,MATCH: Gaia DR2 3138163381476718208 (*),Baryonic Metric Substrate,1
+07h39m41.46s +05d10m00.21s,0.2293,358.5924,Localized Torsional Inflection,52.09,MATCH: Gaia DR3 3138517978272128768 (*),Spacetime Curvature Limit (Black Hole),1
+07h38m20.34s +04d52m41.57s,0.3542,41.6991,Helical Metric Schema,121.65,MATCH: UCAC4 475-036467 (PM*),,
+07h38m23.19s +05d18m48.12s,0.3606,110.1437,Trefoil Metric Schema,55.29,MATCH: TYC  187-1326-1 (*),,
+07h39m40.89s +05d11m09.02s,0.8747,64.8624,Baryonic Metric Substrate,19.68,MATCH: Gaia DR3 3138517978272128768 (*),,
+07h38m14.29s +05d21m17.59s,0.3099,74.9864,Solenoidal Metric Schema (Iron),33.85,MATCH: TYC  187-425-1 (*),,
+07h39m52.46s +05d16m39.53s,0.4902,235.5555,Metric Spacetime Anomaly,87.73,MATCH: TYC  187-804-1 (*),,
+07h39m15.98s +05d23m46.14s,0.3029,245.8256,Solenoidal Metric Schema (Iron),145.1,MATCH: Gaia DR3 3138538177503234176 (EB*),,
+07h39m09.89s +05d10m53.76s,0.2457,15.6499,Gasious Substrate Schema,118.11,MATCH: Gaia DR3 3138145995449798528 (EB*),,
+07h40m53.32s +05d05m50.53s,0.2126,228.4075,Minkowskian Baseline,65.89,MATCH: TYC  187-568-1 (*),,
+07h40m11.90s +05d13m44.11s,0.4228,140.4986,Trefoil Metric Schema,73.54,MATCH: HD  61563B (*),,
+07h39m37.08s +05d19m27.14s,0.3309,23.0084,Helical Metric Schema,182.42,MATCH: ATO J114.8832+05.2781 (EB*),,
+TC7,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 14.66, DEC -60.834",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC7,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,4.87
+14h37m59.50s -61d05m01.48s,0.599,23.3811,Metric Spacetime Anomaly,7.45,MATCH: Gaia DR3 5877715628574659584 (EB*),Average OFFSET,33.61923077
+14h41m38.81s -60d49m15.68s,0.5417,158.0738,Metric Spacetime Anomaly,49.71,MATCH: OGLE GD-LPV-6456 (Mi*),Max OFFSET,60.58
+14h36m25.39s -60d39m31.75s,0.4933,38.4272,Metric Spacetime Anomaly,27.64,MATCH: TYC 9007-1919-1 (*),Number of Close Matches(OFFSET < 1 arcsecond),0
+14h37m30.45s -60d46m37.57s,0.3559,228.6002,Helical Metric Schema,35.57,MATCH: TYC 9007-5697-1 (*),,
+14h41m31.68s -60d49m29.91s,0.3709,179.3181,Trefoil Metric Schema,36.32,MATCH: OGLE GD-LPV-6456 (Mi*),No SIMBAD Match,0
+14h40m27.46s -60d32m24.54s,0.5072,0.9055,Metric Spacetime Anomaly,48.83,MATCH: [DCU2021] SDG G315.937-0.4458 (MoC),,
+14h39m48.71s -60d52m53.36s,0.2246,106.8984,Gasious Substrate Schema,21.15,MATCH: [A2018c] 7 (*),Structure Type,Count
+14h37m19.41s -61d10m12.70s,0.2638,10.0537,Gasious Substrate Schema,26.62,MATCH: 2MASS J14371984-6110391 (LP?),Gasious Substrate Schema,8
+14h40m46.18s -60d45m54.01s,0.3418,30.7819,Helical Metric Schema,50.4,MATCH: Gaia DR3 5877749644718688640 (EB*),Metric Spacetime Anomaly,8
+14h38m26.00s -60d42m40.31s,0.6488,32.1081,Metric Spacetime Anomaly,5.74,MATCH: Gaia DR2 5878481197870808320 (*),Minkowskian Baseline,4
+14h41m27.60s -60d54m33.21s,0.2614,70.0872,Gasious Substrate Schema,26.24,MATCH: IRAS 14376-6041 (LP?),Trefoil Metric Schema,3
+14h41m50.24s -60d51m03.77s,0.2483,69.2032,Gasious Substrate Schema,59.95,MATCH: Gaia DR3 5877733976662466176 (WD?),Helical Metric Schema,2
+14h40m37.81s -60d59m54.23s,0.1834,133.8853,Minkowskian Baseline,37.36,MATCH: Gaia DR3 5877731086106222336 (EB*),Localized Torsional Inflection,1
+14h39m22.08s -61d00m12.17s,0.7495,53.7581,Metric Spacetime Anomaly,60.58,MATCH: CPD-60  5479 (*),,
+14h41m47.91s -61d06m40.45s,0.4038,16.633,Trefoil Metric Schema,29.47,MATCH: Gaia DR3 5877725932139352832 (EB*),,
+14h36m26.73s -60d55m02.59s,0.2209,57.8876,Gasious Substrate Schema,28.54,MATCH: OGLE GD-LPV-6247 (Mi*),,
+14h39m35.62s -61d00m26.12s,0.3551,174.6534,Localized Torsional Inflection,44.73,MATCH: Gaia DR3 5877720198420492672 (LP?),,
+14h40m30.80s -60d48m27.44s,0.1523,107.4956,Minkowskian Baseline,44.04,MATCH: Gaia DR3 5877747995434397440 (EB*),,
+14h39m10.05s -61d01m55.65s,0.1688,323.1457,Minkowskian Baseline,10.37,MATCH: 2MASS J14391073-6102049 (LP?),,
+14h38m03.71s -61d08m53.65s,0.6094,83.6542,Metric Spacetime Anomaly,13.9,MATCH: 2MASS J14380264-6108420 (LP?),,
+14h42m56.04s -61d01m33.29s,0.531,350.0786,Metric Spacetime Anomaly,27.44,MATCH: 2MASS J14425971-6101275 (LP?),,
+14h37m28.88s -60d50m16.07s,0.2376,59.3816,Gasious Substrate Schema,28.91,MATCH: IRAS 14337-6037 (IR),,
+14h38m35.30s -60d49m59.35s,0.2408,43.2098,Gasious Substrate Schema,4.87,MATCH: Gaia DR3 5878476318760853120 (LP?),,
+14h37m47.34s -60d49m33.36s,0.215,2.3229,Minkowskian Baseline,58.07,MATCH: Gaia DR3 5878478242932971776 (EB*),,
+14h38m16.32s -61d03m34.17s,0.4458,157.8832,Trefoil Metric Schema,42.59,MATCH: 2MASS J14381768-6104155 (LP?),,
+14h39m22.40s -60d52m20.57s,0.2329,77.9319,Gasious Substrate Schema,47.61,MATCH: Gaia DR3 5877725008784191872 (LP?),,
+TC8,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 16.49, DEC -26.432",,,,,,,
+Depth: 550 XYZ,Radius: 6.0,,,,,,
+Scanning Volume... Sampling 90 points.,,,,,,,
+Structure Detected: 90 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC8,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,31.47
+16h29m46.47s -26d29m02.96s,0.2014,99.8584,Minkowskian Baseline,158.21,MATCH: Gaia DR3 6045630467331608192 (*),Average OFFSET,110.8907407
+16h27m59.16s -26d20m29.27s,0.5012,313.0483,Metric Spacetime Anomaly,137.46,MATCH: UCAC4 319-086445 (*),Max OFFSET,208.2
+16h28m01.43s -26d41m27.24s,0.3112,9.5294,Solenoidal Metric Schema (Iron),135.19,MATCH: UGCS J162810.32-264024.0 (Y*?),Number of Close Matches(OFFSET < 1 arcsecond),0
+16h28m44.19s -26d23m10.92s,0.3362,150.6874,Helical Metric Schema,31.47,MATCH: Gaia DR3 6045623457945211904 (RR*),,
+16h30m02.48s -26d59m25.79s,0.4244,13.2869,Trefoil Metric Schema,59.68,MATCH: Gaia DR3 6045528105366698240 (EB*),No SIMBAD Match,0
+16h31m28.91s -26d17m40.09s,0.2863,14.7231,Solenoidal Metric Schema (Iron),114.63,MATCH: Gaia DR3 6045683789345087232 (EB*),,
+16h27m32.49s -26d14m49.32s,0.3944,121.9153,Trefoil Metric Schema,110.43,MATCH: ATO J246.8769-26.2767 (EB*),Structure Type,Count
+16h28m05.68s -26d27m04.81s,0.6653,72.9966,Metric Spacetime Anomaly,39.61,MATCH: HD 148302 (*),Solenoidal Metric Schema (Iron),9
+16h31m03.13s -26d29m36.07s,0.3016,32.031,Solenoidal Metric Schema (Iron),203.61,MATCH: Gaia DR3 6045576621320943744 (EB*),Trefoil Metric Schema,4
+16h29m05.82s -26d39m47.87s,0.2232,15.8356,Gasious Substrate Schema,76.27,MATCH: Gaia DR3 6045600707495697792 (EB*),Gasious Substrate Schema,3
+16h28m47.13s -26d10m22.74s,0.2932,59.2012,Solenoidal Metric Schema (Iron),54.27,MATCH: NVSS J162850-261049 (Rad),Helical Metric Schema,3
+16h27m43.77s -26d42m20.41s,0.4047,6.8963,Trefoil Metric Schema,168.89,MATCH: Gaia DR3 6045233539333195008 (EB*),Metric Spacetime Anomaly,3
+16h30m06.72s -26d39m15.71s,0.2978,1.4184,Solenoidal Metric Schema (Iron),116.24,MATCH: Gaia DR3 6045553535868594304 (EB*),Minkowskian Baseline,3
+16h28m41.25s -26d27m16.99s,0.3436,25.4687,Helical Metric Schema,104.66,MATCH: IRAS 16256-2622 (FIR),Baryonic Metric Substrate,1
+16h29m07.38s -26d23m00.11s,0.454,240.4073,Metric Spacetime Anomaly,110.46,MATCH: Gaia DR3 6045643008636260736 (Y*?),Localized Torsional Inflection,1
+16h30m53.37s -26d54m46.33s,0.1936,183.5558,Minkowskian Baseline,82.9,MATCH: Gaia DR3 6045532262896166656 (EB*),,
+16h29m31.22s -25d58m39.49s,0.2862,2.8714,Solenoidal Metric Schema (Iron),57.52,MATCH: UCAC4 321-086156 (*),,
+16h28m42.13s -26d37m06.55s,0.3753,93.4449,Trefoil Metric Schema,83.46,MATCH: CD-26 11358 (*),,
+16h31m13.99s -26d03m00.91s,0.4098,158.7214,Localized Torsional Inflection,36.61,MATCH: [L2013] J163115.87-260234.8 (*),,
+16h29m22.70s -25d57m00.84s,0.9255,18.98,Baryonic Metric Substrate,91.54,MATCH: UCAC4 321-086117 (*),,
+16h31m06.66s -26d29m28.72s,0.3425,16.2003,Helical Metric Schema,208.2,MATCH: Gaia DR3 6045576621320943744 (EB*),,
+16h30m39.76s -26d11m33.52s,0.3003,39.4291,Solenoidal Metric Schema (Iron),177.37,MATCH: CRTS J163048.9-260920 (EB*),,
+16h31m17.24s -26d12m44.05s,0.2111,118.2206,Minkowskian Baseline,200.76,MATCH: 2MASS J16311207-2615523 (G),,
+16h28m46.48s -27d00m21.91s,0.3168,5.3392,Solenoidal Metric Schema (Iron),174.11,MATCH: TYC 6803-617-1 (*),,
+16h28m43.60s -26d16m32.43s,0.2426,65.5845,Gasious Substrate Schema,185.41,MATCH: RX J1628.5-2618 (**),,
+16h28m20.19s -26d26m55.44s,0.2657,166.5442,Gasious Substrate Schema,38.47,MATCH: Gaia DR3 6045621568152094976 (EB*),,
+16h27m38.96s -26d35m36.77s,0.2815,167.0742,Solenoidal Metric Schema (Iron),36.62,MATCH: IRAS 16245-2629 (FIR),,
+16h27m15.95s -26d24m02.61s,0.8831,132.8989,Baryonic Metric Substrate,79.74,MATCH: Gaia DR3 6045808244616408064 (EB*),,
+16h29m03.42s -26d30m57.48s,0.2386,18.1637,Gasious Substrate Schema,176.53,MATCH: Gaia DR3 6045607343230867840 (EB*),,
+16h28m10.57s -25d56m14.51s,0.2736,102.912,Gasious Substrate Schema,166.1,MATCH: Gaia DR3 6045856245170192640 (EB*),,
+16h30m16.50s -26d34m20.41s,0.6915,162.0356,Localized Torsional Inflection,48.38,MATCH: UCAC4 318-091101 (Y*O),,
+16h27m51.04s -26d50m55.20s,0.2036,13.4843,Minkowskian Baseline,81.9,MATCH: UCAC4 316-087812 (SB*),,
+16h31m20.98s -26d39m29.41s,0.2532,104.1124,Gasious Substrate Schema,118.18,MATCH: 2MASS J16312788-2638159 (Y*?),,
+16h30m38.60s -26d36m43.67s,0.5074,3.6227,Metric Spacetime Anomaly,144.48,MATCH: Gaia DR3 6045579271321202432 (EB*),,
+16h27m25.56s -26d20m45.79s,0.2483,12.2227,Gasious Substrate Schema,124.78,MATCH: Gaia DR3 6045814601167160192 (EB*),,
+16h31m52.13s -26d30m47.28s,0.3011,62.3435,Solenoidal Metric Schema (Iron),103.76,MATCH: Gaia DR3 6045571742235054592 (EB*),,
+16h28m27.33s -26d24m17.37s,0.3946,139.8528,Trefoil Metric Schema,43.44,MATCH: Gaia DR3 6045623183067670528 (EB*),,
+16h30m51.52s -26d19m55.11s,0.2962,242.6562,Solenoidal Metric Schema (Iron),95,MATCH: Gaia DR3 6045635582633004288 (EB*),,
+16h31m51.66s -26d33m30.15s,0.2857,104.2843,Solenoidal Metric Schema (Iron),113.35,MATCH: 2MASS J16314331-2633121 (Y*?),,
+16h29m14.25s -25d53m30.02s,0.3371,152.4939,Helical Metric Schema,21.36,MATCH: TYC 6799-428-1 (*),,
+16h29m39.62s -25d59m13.28s,0.2241,67.6041,Gasious Substrate Schema,104.5,MATCH: UCAC4 321-086168 (SB*),,
+16h29m31.41s -25d52m51.95s,0.2995,72.7094,Solenoidal Metric Schema (Iron),82.7,MATCH: Elia 2-40 (*),,
+16h30m15.67s -26d23m45.62s,0.293,4.059,Solenoidal Metric Schema (Iron),58.02,MATCH: IRAS 16271-2618 (FIR),,
+16h31m01.12s -26d28m19.70s,0.9053,137.1416,Baryonic Metric Substrate,160.52,MATCH: Gaia DR3 6045587032321884032 (EB*),,
+16h29m43.78s -26d39m20.68s,0.2807,96.8381,Solenoidal Metric Schema (Iron),107.78,MATCH: Gaia DR3 6045601536423356416 (EB*),,
+16h28m39.18s -26d47m49.32s,0.259,103.3712,Gasious Substrate Schema,75.25,MATCH: 2MASS J16284430-2648203 (Y*?),,
+16h30m23.69s -26d27m50.11s,0.2466,43.4852,Gasious Substrate Schema,89.43,MATCH: TYC 6803-1372-1 (*),,
+16h28m23.09s -26d27m46.33s,0.6984,230.8952,Metric Spacetime Anomaly,49.4,MATCH: HD 148353 (*),,
+16h28m11.92s -26d33m29.50s,0.196,13.9548,Minkowskian Baseline,185.96,MATCH: Elia 2-69 (LP?),,
+16h30m44.46s -26d48m23.91s,0.2598,109.7043,Gasious Substrate Schema,45.02,MATCH: UCAC4 316-088367 (*),,
+16h29m04.17s -26d27m53.09s,0.2894,76.3965,Solenoidal Metric Schema (Iron),131.12,MATCH: Gaia DR3 6045607343230867840 (EB*),,
+16h27m34.25s -26d15m12.36s,1.4437,14.9851,Metric Spacetime Anomaly,98.15,MATCH: ATO J246.8769-26.2767 (EB*),,
+16h26m52.74s -26d25m32.24s,0.2098,6.8642,Minkowskian Baseline,16.66,MATCH: UCAC4 318-090371 (Pe*),,
+16h27m47.18s -26d35m25.82s,0.4182,134.6438,Localized Torsional Inflection,147.25,MATCH: IRAS 16245-2629 (FIR),,
+16h28m19.09s -26d11m43.32s,0.2145,5.0889,Minkowskian Baseline,31.96,MATCH: TYC 6799-330-1 (*),,
+16h31m22.87s -26d08m22.76s,0.5538,190.5621,Metric Spacetime Anomaly,69.75,MATCH: Gaia DR3 6045732550113402112 (EB*),,
+16h30m35.62s -26d19m46.42s,0.5119,88.8512,Metric Spacetime Anomaly,91.98,MATCH: 2MASS J16303903-2621057 (LP?),,
+16h27m06.88s -26d09m58.46s,0.3228,44.8882,Helical Metric Schema,136.92,MATCH: 2MASS J16270002-2608173 (*),,
+16h30m13.90s -26d02m51.69s,0.2922,1.6487,Solenoidal Metric Schema (Iron),68.37,MATCH: Gaia DR3 6045655687373497472 (WD?),,
+16h30m28.93s -26d29m12.22s,0.6352,77.3749,Metric Spacetime Anomaly,150.56,MATCH: Gaia DR3 6045580233385526912 (EB*),,
+16h27m06.42s -26d37m29.31s,0.4172,128.718,Trefoil Metric Schema,82.04,MATCH: Gaia DR3 6045425713349748864 (EB*),,
+16h28m06.73s -26d08m48.73s,0.4381,87.3097,Localized Torsional Inflection,31.6,MATCH: IRAS 16250-2602 (FIR),,
+16h30m37.99s -26d46m43.21s,0.3071,174.7385,Solenoidal Metric Schema (Iron),103.84,MATCH: UCAC4 316-088367 (*),,
+16h30m28.51s -26d15m49.28s,0.1939,8.8863,Minkowskian Baseline,72.96,MATCH: Gaia DR3 6045640118118099840 (EB*),,
+16h28m38.85s -26d04m22.66s,0.3009,121.8939,Solenoidal Metric Schema (Iron),85.81,MATCH: 2MASS J16284517-2604324 (Or*),,
+16h30m09.72s -25d58m40.72s,1.3881,14.0156,Metric Spacetime Anomaly,159.2,MATCH: SFAM  77 (Rad),,
+16h27m18.99s -26d31m14.82s,0.2436,116.1427,Gasious Substrate Schema,68.83,MATCH: NTTS 162412-2622 (*),,
+16h30m23.14s -25d55m02.92s,0.2323,44.8199,Gasious Substrate Schema,127.68,MATCH: 2MASS J16303258-2555099 (LP*),,
+16h27m27.50s -26d15m08.33s,1.5149,127.5332,Spacetime Curvature Limit (Black Hole),95.34,MATCH: UCAC4 319-086318 (Pe*),,
+16h28m50.26s -26d36m11.41s,0.2831,98.5299,Localized Torsional Inflection,47.81,MATCH: CD-26 11358 (*),,
+16h31m21.63s -26d05m44.40s,0.2097,115.4573,Minkowskian Baseline,93.47,MATCH: Gaia DR3 6045735741269651712 (EB*),,
+16h28m05.93s -26d43m03.71s,0.2472,24.3346,Gasious Substrate Schema,130.27,MATCH: 2MASS J16281522-2643419 (Y*O),,
+16h29m05.28s -26d05m18.35s,0.2553,7.629,Gasious Substrate Schema,144.11,MATCH: Gaia DR3 6045839065300817280 (RR*),,
+16h30m28.82s -26d16m02.27s,0.1834,267.695,Minkowskian Baseline,85.53,MATCH: Gaia DR3 6045640118118099840 (EB*),,
+16h29m05.07s -26d26m34.62s,0.4748,87.7527,Localized Torsional Inflection,134.46,MATCH: Gaia DR3 6045642974268803840 (EB*),,
+16h28m30.88s -26d42m54.99s,0.4161,7.0332,Trefoil Metric Schema,67.72,MATCH: Gaia DR3 6045597791212266240 (WD?),,
+16h31m43.94s -26d11m25.28s,0.3607,70.4158,Trefoil Metric Schema,67.64,MATCH: UGCS J163139.46-261054.4 (Y*?),,
+16h28m21.07s -26d30m15.43s,0.3804,55.9273,Trefoil Metric Schema,21.67,MATCH: TYC 6803-694-1 (*),,
+16h29m43.83s -26d25m01.27s,0.2163,104.2663,Minkowskian Baseline,22.34,MATCH: Gaia DR2 6045631291957441536 (*),,
+16h29m42.65s -26d49m55.51s,0.7214,119.2673,Localized Torsional Inflection,123.53,MATCH: CRTS J162933.8-264919 (RR*),,
+16h28m42.77s -26d04m03.86s,0.4534,198.1223,Localized Torsional Inflection,43.27,MATCH: 2MASS J16284517-2604324 (Or*),,
+16h30m01.37s -26d26m18.90s,1.1034,52.3119,Baryonic Metric Substrate,12.76,MATCH: [SHM2017] J247.50800-26.43572 (RR*),,
+16h29m54.57s -26d13m10.01s,0.4166,85.7397,Trefoil Metric Schema,82.8,MATCH: UCAC4 319-086757 (*),,
+16h30m42.28s -26d48m42.59s,0.7147,182.7696,Metric Spacetime Anomaly,28.89,MATCH: UCAC4 316-088367 (*),,
+16h28m24.45s -26d18m31.69s,0.3387,73.2499,Helical Metric Schema,144.39,MATCH: RX J1628.5-2618B (Y*O),,
+16h31m36.23s -26d09m23.51s,0.237,24.3699,Gasious Substrate Schema,89.83,MATCH: CRTS J163131.2-261017 (Mi*),,
+16h30m28.30s -26d46m41.30s,0.3415,7.425,Helical Metric Schema,162.27,MATCH: IRAS 16275-2638 (OH*),,
+16h27m45.35s -26d28m51.70s,0.3969,17.1085,Trefoil Metric Schema,257.27,MATCH: 2MASS J16275938-2625563 (LP?),,
+16h27m45.94s -26d17m03.93s,0.3507,23.0084,Helical Metric Schema,209.76,MATCH: ATO J246.8769-26.2767 (EB*),,
+16h29m19.91s -26d34m05.60s,0.2791,9.4173,Gasious Substrate Schema,68,MATCH: 2MASS J16292133-2635109 (LP*),,
+TC9,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 5.242, DEC -8.201",,,,,,,
+Depth: 860 XYZ,Radius: 6.0,,,,,,
+Scanning Volume... Sampling 90 points.,,,,,,,
+Structure Detected: 90 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC9,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,13.09
+05h13m50.77s -08d10m19.77s,0.2819,331.2457,Solenoidal Metric Schema (Iron),108.61,MATCH: Gaia DR3 3206910144139869312 (WD?),Average OFFSET,144.9188462
+05h14m30.00s -08d17m11.39s,0.326,52.4315,Helical Metric Schema,170.35,MATCH: Gaia DR3 3206895541251065472 (WD?),Max OFFSET,265.22
+05h15m28.57s -08d06m13.59s,0.2223,6.7447,Gasious Substrate Schema,227.4,MATCH: EXSS 0513.0-0813 (X),Number of Close Matches(OFFSET < 1 arcsecond),0
+05h15m10.51s -08d22m02.89s,0.2443,92.8154,Gasious Substrate Schema,142.65,MATCH: Gaia DR3 3206985735566925056 (EB*),,
+05h14m54.64s -08d18m58.15s,0.1974,304.2888,Minkowskian Baseline,265.22,MATCH: NVSS J051506-081543 (Rad),No SIMBAD Match,1
+05h14m31.47s -08d11m23.33s,0.2784,9.8147,Gasious Substrate Schema,13.09,MATCH: Gaia DR2 3206991576720162048 (*),,
+05h15m07.23s -08d07m52.16s,0.4932,366.2726,Localized Torsional Inflection,79.26,MATCH: Gaia DR3 3206993603944629632 (RR?),Structure Type,Count
+05h15m25.52s -08d05m43.40s,0.2817,137.3748,Solenoidal Metric Schema (Iron),253.07,MATCH: TYC 5331-1741-1 (*),Gasious Substrate Schema,7
+05h14m58.37s -08d26m40.32s,0.3127,72.9454,Solenoidal Metric Schema (Iron),174.19,MATCH: 2MASX J05150163-0829278 (G),Solenoidal Metric Schema (Iron),6
+05h14m39.59s -08d16m03.82s,0.3003,255.8254,Solenoidal Metric Schema (Iron),227.49,MATCH: Gaia DR3 3206991301842738688 (WD?),Localized Torsional Inflection,4
+05h14m20.77s -08d29m33.50s,0.2967,161.5479,Localized Torsional Inflection,232.31,MATCH: 2MASS J05143605-0828435 (Em*),Minkowskian Baseline,3
+05h15m33.61s -08d17m18.52s,0.2771,7.4205,Gasious Substrate Schema,N/A,NO MATCH,Trefoil Metric Schema,3
+05h13m47.37s -08d06m31.82s,0.2293,279.1013,Gasious Substrate Schema,205.68,MATCH: 1RXS J051333.7-080705 (X),Metric Spacetime Anomaly,2
+05h14m16.16s -08d04m52.88s,0.2783,75.7385,Gasious Substrate Schema,36.56,MATCH: TYC 5331-1734-1 (*),Baryonic Metric Substrate,1
+05h13m51.84s -08d21m40.50s,0.1747,132.5196,Minkowskian Baseline,105.49,MATCH: EXSS 0511.4-0824 (X),Helical Metric Schema,1
+05h15m02.08s -08d06m06.71s,0.4091,43.2181,Trefoil Metric Schema,55.91,MATCH: Gaia DR3 3206993603944629632 (RR?),,
+05h14m38.77s -08d05m22.71s,0.4498,46.5314,Trefoil Metric Schema,101.84,MATCH: TYC 5331-1716-1 (*),,
+05h14m46.07s -08d14m57.43s,0.3609,59.4056,Trefoil Metric Schema,194.57,MATCH: Gaia DR3 3206991301842738688 (WD?),,
+05h15m39.76s -08d00m22.44s,0.8189,73.6396,Baryonic Metric Substrate,259.86,MATCH: Gaia DR2 3207025077467174016 (*),,
+05h14m43.66s -07d59m09.31s,0.3064,7.5807,Solenoidal Metric Schema (Iron),56.69,MATCH: TYC 5331-1736-1 (*),,
+05h14m14.40s -08d12m42.07s,0.2504,24.375,Gasious Substrate Schema,112.01,MATCH: 2MASS J05141185-0810566 (Em*),,
+05h14m50.95s -08d06m08.19s,0.5131,62.6963,Localized Torsional Inflection,56.74,MATCH: IRAS 05123-0809 (FIR),,
+05h14m39.03s -07d58m43.73s,0.7346,36.0885,Metric Spacetime Anomaly,16.8,MATCH: TYC 5331-1736-1 (*),,
+05h14m49.29s -08d28m08.67s,0.3632,162.8625,Localized Torsional Inflection,199.31,MATCH: 2MASS J05143605-0828435 (Em*),,
+05h13m57.92s -08d09m19.25s,0.2828,126.6872,Solenoidal Metric Schema (Iron),168.39,MATCH: Gaia DR3 3206910144139869312 (WD?),,
+05h14m01.47s -08d06m58.85s,0.2188,136.7807,Minkowskian Baseline,185.59,MATCH: Gaia DR3 3207004083664966528 (WD?),,
+05h14m51.76s -08d08m35.84s,0.4637,7.5465,Metric Spacetime Anomaly,118.81,MATCH: UCAC4 410-008336 (SB*),,
+05h14m44.43s -08d24m32.61s,0.2437,171.4195,Gasious Substrate Schema,280.03,MATCH: 2MASS J05143605-0828435 (Em*),,
+05h13m50.91s -08d02m20.41s,0.5122,19.0378,Metric Spacetime Anomaly,31.06,MATCH: ATO J078.4661-08.0466 (EB*),,
+05h14m01.66s -08d07m42.14s,0.9937,180.1715,Baryonic Metric Substrate,161.72,MATCH: Gaia DR3 3207004083664966528 (WD?),,
+05h13m50.71s -08d15m30.93s,0.2182,5.2974,Minkowskian Baseline,219.18,MATCH: Gaia DR3 3206910144139869312 (WD?),,
+05h13m47.80s -08d13m16.74s,0.3467,5.9704,Helical Metric Schema,121.58,MATCH: Gaia DR3 3206910144139869312 (WD?),,
+05h14m40.54s -08d12m37.69s,0.3766,182.6918,Trefoil Metric Schema,34.66,MATCH: Gaia DR3 3206991301842738688 (WD?),,
+05h15m21.02s -08d18m04.67s,0.5273,15.2398,Metric Spacetime Anomaly,148.98,MATCH: Gaia DR3 3206985735566925056 (EB*),,
+05h13m55.17s -07d53m51.77s,0.2353,35.5729,Gasious Substrate Schema,138.88,MATCH: Gaia DR3 3207058750008589056 (EB*),,
+05h13m17.38s -07d59m39.92s,0.2699,107.5257,Gasious Substrate Schema,5.51,MATCH: TYC 5330-230-1 (*),,
+05h13m07.72s -08d11m56.58s,0.3103,10.1932,Solenoidal Metric Schema (Iron),N/A,NO MATCH,,
+05h14m29.84s -07d59m50.18s,0.5498,99.2502,Metric Spacetime Anomaly,162.69,MATCH: TYC 5331-1736-1 (*),,
+05h15m01.87s -08d22m27.74s,0.2926,0.1451,Solenoidal Metric Schema (Iron),238.41,MATCH: Gaia DR3 3206985735566925056 (EB*),,
+05h13m42.47s -08d13m39.19s,0.3162,161.7889,Solenoidal Metric Schema (Iron),199.19,MATCH: Gaia DR3 3206910144139869312 (WD?),,
+05h14m56.09s -08d06m42.04s,0.2359,31.1375,Gasious Substrate Schema,107.22,MATCH: Gaia DR3 3206993603944629632 (RR?),,
+05h13m48.06s -08d19m01.53s,0.1885,9.4292,Minkowskian Baseline,105.79,MATCH: EXSS 0511.4-0824 (X),,
+05h15m47.44s -08d13m48.87s,0.4178,97.2183,Trefoil Metric Schema,257.52,MATCH: TYC 5331-1708-1 (*),,
+05h14m10.51s -08d08m51.98s,0.4391,59.4249,Trefoil Metric Schema,17.82,MATCH: Gaia DR3 3207004083664966528 (WD?),,
+05h15m14.16s -08d31m27.82s,0.555,128.7327,Metric Spacetime Anomaly,39.23,MATCH: Gaia DR3 3206698385074129792 (Y*?),,
+05h14m53.39s -08d26m14.51s,0.2982,262.5033,Solenoidal Metric Schema (Iron),228.61,MATCH: 2MASX J05150163-0829278 (G),,
+05h14m24.45s -07d59m31.97s,0.6219,86.1828,Metric Spacetime Anomaly,235.23,MATCH: TYC 5331-1736-1 (*),,
+05h14m19.36s -08d25m29.35s,0.3218,38.6468,Helical Metric Schema,227.38,MATCH: TYC 5331-1744-1 (*),,
+05h15m13.54s -08d10m35.15s,0.1964,302.093,Minkowskian Baseline,233.39,MATCH: NVSS J051529-081016 (Rad),,
+05h14m01.09s -08d17m14.33s,0.3666,44.7122,Trefoil Metric Schema,138.33,MATCH: UCAC2  28853936 (*),,
+05h13m20.57s -08d18m24.12s,0.2686,58.8392,Gasious Substrate Schema,115.01,MATCH: Gaia DR3 3206907086126334464 (Ro*),,
+05h14m42.28s -08d28m18.35s,0.2503,68.1881,Gasious Substrate Schema,95.62,MATCH: 2MASS J05143605-0828435 (Em*),,
+05h14m29.82s -08d11m48.76s,0.1902,96.6539,Minkowskian Baseline,40.24,MATCH: * bet Ori (s*b),,
+05h15m39.65s -07d56m01.58s,0.2901,86.8338,Solenoidal Metric Schema (Iron),131.4,MATCH: Gaia DR3 3207026207040792704 (WD?),,
+05h14m54.94s -08d21m17.84s,0.2998,36.6963,Solenoidal Metric Schema (Iron),294.59,MATCH: Gaia DR3 3206985735566925056 (EB*),,
+05h15m40.34s -08d26m17.38s,0.7608,309.1489,Metric Spacetime Anomaly,24.67,MATCH: Gaia DR3 3206793355391014144 (PM*),,
+05h14m37.38s -07d54m44.22s,0.9293,23.0131,Baryonic Metric Substrate,221.44,MATCH: TYC 5331-1721-1 (*),,
+05h14m07.07s -08d19m55.69s,0.2125,65.0638,Minkowskian Baseline,69.68,MATCH: UCAC2  28853936 (*),,
+05h15m09.65s -08d06m48.03s,0.2587,6.772,Gasious Substrate Schema,76.21,MATCH: TYC 5331-1741-1 (*),,
+05h15m18.04s -08d25m01.68s,0.4447,1.8712,Trefoil Metric Schema,185.35,MATCH: Gaia DR3 3206702164645339648 (PM*),,
+05h15m04.71s -08d16m23.13s,0.315,33.2428,Solenoidal Metric Schema (Iron),50.3,MATCH: NVSS J051506-081543 (Rad),,
+05h15m40.68s -08d17m10.32s,0.2489,9.2237,Gasious Substrate Schema,252.92,MATCH: UCAC4 409-008253 (*),,
+05h14m56.43s -08d09m49.73s,0.2148,103.1326,Minkowskian Baseline,81.38,MATCH: UCAC4 410-008336 (SB*),,
+05h14m16.07s -07d57m43.46s,0.2047,69.9747,Minkowskian Baseline,106.7,MATCH: UCAC2  29039524 (*),,
+05h14m40.55s -08d02m05.50s,0.2135,71.1869,Minkowskian Baseline,163.83,MATCH: TYC 5331-1716-1 (*),,
+05h14m54.38s -08d12m37.24s,0.6239,337.7501,Localized Torsional Inflection,128.18,MATCH: UCAC4 410-008336 (SB*),,
+05h13m58.35s -08d25m25.29s,0.2778,53.7148,Gasious Substrate Schema,84.59,MATCH: TYC 5331-1744-1 (*),,
+05h13m31.07s -08d27m29.96s,0.7987,175.8002,Metric Spacetime Anomaly,229.35,MATCH: TYC 5330-1702-1 (*),,
+05h14m00.43s -08d20m54.26s,0.216,18.8174,Minkowskian Baseline,109.78,MATCH: EXSS 0511.4-0824 (X),,
+05h13m33.30s -08d05m16.76s,0.7389,120.0848,Metric Spacetime Anomaly,108.42,MATCH: 1RXS J051333.7-080705 (X),,
+05h15m32.93s -07d55m58.42s,1.9447,197.1312,Spacetime Curvature Limit (Black Hole),135.34,MATCH: LP  657-14 (PM*),,
+05h13m59.60s -08d26m13.37s,0.7322,44.9864,Metric Spacetime Anomaly,78.09,MATCH: TYC 5331-1744-1 (*),,
+05h13m29.49s -08d26m58.84s,0.7903,313.7462,Localized Torsional Inflection,192.07,MATCH: TYC 5330-1702-1 (*),,
+05h14m27.10s -08d27m56.78s,0.3737,118.666,Trefoil Metric Schema,141,MATCH: 2MASS J05143605-0828435 (Em*),,
+05h14m54.70s -08d04m23.71s,0.4879,2.5684,Metric Spacetime Anomaly,136.99,MATCH: IRAS 05123-0809 (FIR),,
+05h14m28.33s -08d09m55.90s,0.7372,17.1191,Metric Spacetime Anomaly,104.11,MATCH: Gaia DR2 3206991576720162048 (*),,
+05h15m07.47s -08d09m46.51s,0.5901,2.7208,Metric Spacetime Anomaly,178.08,MATCH: Gaia DR3 3206993603944629632 (RR?),,
+05h13m59.10s -07d55m08.52s,0.2104,37.0822,Minkowskian Baseline,61.37,MATCH: Gaia DR3 3207058750008589056 (EB*),,
+05h14m32.70s -07d52m20.11s,0.245,48.3187,Gasious Substrate Schema,145.89,MATCH: TYC 5331-1721-1 (*),,
+05h13m34.13s -08d00m49.10s,0.3521,45.2042,Helical Metric Schema,59.89,MATCH: Gaia DR3 3207056757145867264 (*),,
+05h13m22.51s -08d09m49.56s,0.2825,268.942,Solenoidal Metric Schema (Iron),139.23,MATCH: NVSS J051323-080735 (Rad),,
+05h13m08.55s -08d20m32.59s,0.3093,52.157,Solenoidal Metric Schema (Iron),124.28,MATCH: UCAC4 409-008073 (Y*?),,
+05h14m10.85s -07d50m02.73s,0.2339,53.562,Gasious Substrate Schema,215.75,MATCH: 2MASX J05142067-0752415 (G),,
+05h14m37.04s -08d11m07.57s,0.2429,61.4846,Gasious Substrate Schema,46.38,MATCH: Gaia DR3 3206991508000681600 (RR?),,
+05h15m28.76s -08d22m39.22s,0.2557,33.7188,Gasious Substrate Schema,55.58,MATCH: Gaia DR3 3206796683988279936 (*),,
+05h14m03.28s -08d00m20.10s,0.253,114.3355,Gasious Substrate Schema,93.5,MATCH: Gaia DR2 3207009031469430016 (*),,
+05h15m24.81s -08d04m15.14s,0.2415,12.6539,Gasious Substrate Schema,254.79,MATCH: TYC 5331-1741-1 (*),,
+05h14m37.08s -08d07m17.32s,0.4372,200.888,Trefoil Metric Schema,177.65,MATCH: IRAS 05123-0809 (FIR),,
+05h14m50.34s -07d59m17.59s,0.3002,208.8665,Localized Torsional Inflection,155.19,MATCH: TYC 5331-1736-1 (*),,
+05h13m49.40s -08d01m55.84s,1.2193,55.5106,Metric Spacetime Anomaly,63.78,MATCH: ATO J078.4661-08.0466 (EB*),,
+TC10,,,,,,,
+--- INITIATING VOLUMETRIC METRIC SCAN ---,,,,,,,
+"Target: RA 19.846, DEC 8.868",,,,,,,
+Depth: 500 XYZ,Radius: 4.0,,,,,,
+Scanning Volume... Sampling 26 points.,,,,,,,
+Structure Detected: 26 metric nodes.,,,,,,,
+FULL SIMBAD REALITY CHECK - ALL NODES,,,,,,TC10,
+PREDICTED COORDINATES,MODE (m),HELICITY,PREDICTED IDENTITY,OFFSET,REALITY CHECK,Closest OFFSET,1.77
+19h52m10.90s +08d58m51.87s,0.2656,58.7765,Gasious Substrate Schema,3.9,MATCH: ZTF J195210.85+085848.0 (EB*),Average OFFSET,68.17846154
+19h51m32.01s +08d50m30.91s,0.9434,39.4016,Baryonic Metric Substrate,24.28,MATCH: Gaia DR3 4298618606636893952 (EB*),Max OFFSET,162.06
+19h50m37.09s +08d54m54.60s,0.2847,71.1575,Solenoidal Metric Schema (Iron),6.69,MATCH: 2E  4293 (X),Number of Close Matches(OFFSET < 1 arcsecond),0
+19h49m24.74s +09d00m16.30s,0.988,145.782,Localized Torsional Inflection,83.46,MATCH: Gaia DR3 4301547602515287552 (EB*),,
+19h49m41.09s +08d36m37.41s,1.199,37.906,Baryonic Metric Substrate,89.08,MATCH: Gaia DR3 4298518241839443712 (RR?),No SIMBAD Match,0
+19h51m32.84s +08d41m12.24s,0.2087,33.3926,Minkowskian Baseline,37.41,MATCH: Gaia DR3 4298567960377320320 (EB*),,
+19h51m02.31s +08d41m02.27s,0.2892,83.779,Solenoidal Metric Schema (Iron),39.74,MATCH: 2XMMi J195104.9+084054 (X),Structure Type,Count
+19h50m37.07s +08d38m03.07s,0.532,71.1225,Metric Spacetime Anomaly,37.06,MATCH: TYC 1058-1931-1 (RG*),Gasious Substrate Schema,8
+19h51m45.00s +08d55m37.07s,0.693,116.9385,Metric Spacetime Anomaly,151.99,MATCH: Gaia DR3 4298624683993494272 (EB*),Metric Spacetime Anomaly,5
+19h50m45.48s +09d00m37.44s,0.2357,117.3698,Gasious Substrate Schema,162.06,MATCH: ZTF J195043.92+090317.8 (EB*),Solenoidal Metric Schema (Iron),4
+19h49m36.71s +08d37m51.24s,0.288,17.9794,Solenoidal Metric Schema (Iron),18.2,MATCH: Gaia DR3 4298518241839443712 (RR?),Baryonic Metric Substrate,2
+19h51m23.10s +08d35m03.32s,0.3534,3.3314,Helical Metric Schema,8.14,MATCH: TYC 1058-2649-1 (*),Helical Metric Schema,2
+19h52m05.09s +09d03m08.49s,0.2427,146.1874,Gasious Substrate Schema,42.11,MATCH: ZTF J195202.31+090317.7 (EB*),Minkowskian Baseline,2
+19h49m34.42s +09d08m30.06s,1.4245,24.8946,Metric Spacetime Anomaly,29.2,MATCH: ZTF J194933.60+090803.3 (EB*),Trefoil Metric Schema,2
+19h49m50.70s +08d49m55.79s,0.3041,159.3453,Solenoidal Metric Schema (Iron),1.77,MATCH: TYC 1058-1523-1 (*),Localized Torsional Inflection,1
+19h50m50.20s +08d42m47.29s,0.1851,263.156,Minkowskian Baseline,81.58,MATCH: TYC 1058-2212-1 (*),,
+19h52m09.33s +09d04m12.44s,0.2378,29.7042,Gasious Substrate Schema,80.35,MATCH: HD 187894 (V*),,
+19h50m06.43s +08d35m18.67s,0.2271,93.3999,Gasious Substrate Schema,52.73,MATCH: TYC 1058-3122-1 (*),,
+19h51m34.90s +08d57m22.33s,0.398,109.3623,Trefoil Metric Schema,50.75,MATCH: Gaia DR3 4298629223782710656 (EB*),,
+19h49m20.34s +08d57m17.07s,0.2759,17.5673,Gasious Substrate Schema,126.46,MATCH: 2MASS J19492298+0855169 (LP?),,
+19h51m48.80s +08d45m01.80s,0.4616,169.8358,Metric Spacetime Anomaly,65.97,MATCH: TYC 1058-1755-1 (*),,
+19h51m22.02s +08d58m56.05s,0.3928,325.4495,Trefoil Metric Schema,106.61,MATCH: Gaia DR3 4298629017635177856 (EB*),,
+19h49m13.46s +08d53m31.56s,0.3345,3.4143,Helical Metric Schema,124.78,MATCH: 2MASS J19490924+0855195 (LP?),,
+19h49m49.33s +08d36m43.67s,0.6719,61.064,Metric Spacetime Anomaly,128.4,MATCH: Gaia DR3 4298516695643090304 (EB*),,
+19h51m50.26s +08d38m07.19s,0.2472,84.3005,Gasious Substrate Schema,120.4,MATCH: Gaia DR3 4298563661097111296 (EB*),,
+19h49m23.99s +08d38m14.42s,0.2703,336.573,Gasious Substrate Schema,99.52,MATCH: Gaia DR3 4298529717984742656 (WD?),,
